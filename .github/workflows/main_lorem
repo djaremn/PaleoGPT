@@ -1,0 +1,32 @@
+import openai
+import config
+
+openai.api_key = config.openai_key
+
+def generar_informe(rubrica, elementos_clave):
+    mensajes = [
+        {"role": "system", "content": f"Generar un informe sobre {elementos_clave} que cumpla con la siguiente rubrica:\n{rubrica}"},
+    ]
+    while True:
+        pregunta = input("Escriba una pregunta o 'terminar' para finalizar: ")
+        if pregunta.lower() == "terminar":
+            break
+        mensajes.append({"role": "user", "content": pregunta})
+
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=mensajes,
+        )
+        respuesta_assistente = response.choices[0].message['content']
+        mensajes.append({"role": "assistant", "content": respuesta_assistente})
+        print(respuesta_assistente)
+
+    informe = "\n".join([mensaje["content"] for mensaje in mensajes if mensaje["role"] == "assistant"])
+    return informe
+
+if __name__ == "__main__":
+    rubrica = open('rubrica.txt', 'r').read()
+    elementos_clave = open('elementos_clave.txt', 'r').read()
+    informe = generar_informe(rubrica, elementos_clave)
+    print("Informe generado:")
+    print(informe)
