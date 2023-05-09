@@ -1,0 +1,684 @@
+ÁREA DE PATRIMONIO NATURAL
+
+
+
+INDICE
+Pág.
+Introducción
+
+5
+
+1. ETAPA UNO: RECOPILACIÓN DE ANTECEDENTES E
+INVESTIGACIÓN EN TERRENO .
+
+6
+
+1.1 Revisión bibliográfica.
+
+6
+
+1.2 Información relevante a proporcionar por el titular.
+
+6
+
+1.3 Inspección visual en terreno.
+
+6
+
+2. ETAPA DOS: ELABORACIÓN DE INFORME
+
+8
+
+2.1 Potencial paleontológico.
+
+8
+
+2.2 Descripción de unidades “susceptibles” y “fosilíferas”.
+
+8
+
+2.3 Cartografía (mapa o plano) de contexto geológico y
+paleontológico.
+
+9
+
+2.4 Impacto sobre unidades “susceptibles” y “fosilíferas”.
+
+10
+
+2.5 Currículo y firma del informe.
+
+10
+
+3. ETAPA TRES: EVALUACIÓN DE IMPACTOS Y PROPUESTAS DE
+MEDIDAS.
+
+11
+
+3.1 La evaluación de impactos por las obras de un proyecto al
+componente paleontológico.
+
+11
+
+3.2 Medidas de control.
+
+11
+
+3.3 Medidas de compensación.
+
+15
+
+ANEXO: Análisis paleontológico de vertebrados obtenido por
+lavado-tamizado
+
+17
+
+1. Introducción
+
+17
+
+2. Técnica de Muestreo
+
+17
+
+3. Técnica de lavado y tamizado
+
+18
+
+3.1.- Secado e inmersión
+
+18
+
+3.2.- Lavado sobre tamices
+
+19
+
+3.3.- Triado del residuo
+
+20
+
+3.4.- Montaje y clasificación
+
+21
+
+I. INTRODUCCIÓN
+El Consejo de Monumentos Nacionales (CMN) es
+un organismo técnico del Estado que depende del Ministerio
+de Educación y cuyas atribuciones, según la Ley 17.288 de
+Monumentos Nacionales, se resumen en la salvaguarda efectiva
+del patrimonio cultural y natural de carácter monumental
+(Monumento Nacional), velando por su identificación,
+protección oficial, supervisión, conservación y puesta en valor.
+En el Artículo 21º de la Ley N.º 17.288, queda
+establecido que, por el solo ministerio de la ley, son Monumentos
+Arqueológicos de propiedad del Estado los lugares, ruinas,
+piezas u objetos antropo-arqueológicas, paleontológicos o de
+formación natural que existan sobre o bajo la superficie del
+territorio nacional o en la plataforma submarina de sus aguas
+jurisdiccionales. Se indica además que son propiedad del Estado
+las “piezas paleontológicas y los lugares donde se hallaren”,
+incluyendo así la extensión de las formaciones fosilíferas bajo
+esta protección.
+El presente documento tiene como propósito detallar
+los aspectos metodológicos y conceptuales validados por
+el CMN para la elaboración de informes paleontológicos. En
+diversas situaciones el CMN solicita y/o requiere informes
+o recopilación de antecedentes relativos a la existencia de
+patrimonio paleontológico o evidencias que permitan inferir su
+presencia en un área determinada. Este instrumento es de vital
+importancia para la gestión y protección de este patrimonio. Así,
+en los casos que corresponda, los profesionales y especialistas
+que cumplan con el perfil aprobado por el CMN estarán
+facultados para elaborar los informes paleontológicos que se
+soliciten, debiendo seguir el contenido y forma de la presente
+Guía. En casos particulares el CMN podrá solicitar análisis
+adicionales, de manera de disponer de información suficiente
+para evaluar las afectaciones al patrimonio paleontológico y
+los procedimientos a seguir.
+Particularmente, en proyectos o actividades
+ingresados al Sistema de Evaluación de Impacto Ambiental
+(SEIA), el titular deberá presentar un Informe Paleontológico,
+siguiendo estrictamente los ítems y etapas que se detallan en
+la presente Guía.
+
+5
+
+1. ETAPA UNO
+RECOPILACIÓN DE DATOS E
+INVESTIGACIÓN EN TERRENO
+1.1 Revisión bibliográfica.
+Esta recopilación al menos debe incluir:
+1.1.1 Revisión y análisis de carta geológica en escala de mayor detalle
+disponible (se recomienda al menos 1:100.000) para la zona, ya
+sea elaborada por el SERNAGEOMIN, por algún autor (artículo
+científico) o por el titular.
+1.1.2 Revisión de literatura técnico-científica. Esta revisión debe ser
+sistemática y considerar tanto la información de las bases de datos
+del SEIA, bibliotecas, tesis de grado y postgrado, como publicaciones
+de revistas chilenas o de indexadores internacionales, de manera de
+recabar toda la información existente para el área y/o formación en
+cuestión.
+
+1.2 Información relevante a proporcionar por el titular:
+1.2.1 Tabla con todas las excavaciones y movimientos de tierra del
+proyecto, que deberá ir acompañada de un plano de la obra donde
+se localicen las excavaciones y escarpes, con las profundidades
+correspondientes.
+1.2.2 Información de calicatas y/o sondajes geológicos elaborada por
+el titular (ej.: perfiles geológicos de correlación lateral), en zonas
+donde se vayan a realizar excavaciones y/o zonas aledañas. Se
+utilizará para complementar información recogida posteriormente
+en terreno.
+
+1.3 Inspección visual en terreno
+Se deberá considerar una inspección para toda el Área de Influencia del
+proyecto, especialmente en sectores donde se contempla desarrollar
+actividades que impliquen movimiento de tierras o excavaciones.
+Revisar cortes de camino y/o quebradas naturales o, en su ausencia, en
+zonas aledañas, con el fin de caracterizar la secuencia estratigráfica en
+la superficie y subsuelo del proyecto. Se tendrá en cuenta lo siguiente:
+
+6
+
+1.3.1 Si el titular hubiera hecho calicatas y estas fueran accesibles,
+deberán analizarse los perfiles estratigráficos para establecer el
+potencial fosilífero.
+1.3.2 Las actividades de prospecciones superficiales deben ejecutarse
+en condiciones atmosféricas que aseguren buena visibilidad del
+terreno.
+1.3.3 Los datos mínimos de la inspección visual y que deben ser remitidos
+en el informe:
+1.3.3.1 Track y coordenada geográfica de todos los afloramientos y
+puntos de observación.
+1.3.3.2 Descripción geológica general de los afloramientos (nombre
+de la unidad geológica, tipo de roca y edad), debidamente
+acompañado de fotografías generales (de contexto y
+panorámicas) y de detalle (de litologías, estratos, estructuras,
+etc.).
+1.3.3.3 Los afloramientos con presencia de fósiles in situ deberán
+incluir, en la descripción geológica, una columna estratigráfica
+con apoyo fotográfico. Se debe considerar que puede haber
+afloramientos de unidades geológicas que no estén dentro del
+área del proyecto pero sí pueden ser considerados dentro de la
+zona de influencia, debido a su correlación lateral1.
+
+1.- El área de influencia deberá incluir los afloramientos de unidades geológicas dentro o fuera del área
+donde se proyectan las obras, lo que deberá estar debidamente justificado por el análisis bibliográfico y
+los datos levantados en terreno respecto del contexto geológico de la zona.
+7
+
+2. ETAPA DOS
+ELABORACIÓN DE INFORME2
+2.1 Potencial paleontológico.
+
+Con toda la información bibliográfica y de terreno, se clasificarán las
+unidades geológicas presentes en el área del proyecto en las siguientes
+categorías:
+2.1.1 Estéril (potencial paleontológico bajo a nulo). Unidades que
+correspondan a cuerpos intrusivos y productos volcánicos de alta
+temperatura y energía, excepto ciertos tipos de ignimbritas. En caso
+de tener una unidad sedimentaria sin antecedentes bibliográficos
+de presencia de fósiles y que en terreno se haya constatado que
+no tiene fósiles ni características sedimentológicas propicias para
+tenerlos (p. ej.: flujo de detritos altamente energético de grandes
+bloques), podrá incluirse en esta categoría.
+2.1.2 Susceptible (potencial paleontológico bajo a medio). Unidades
+sedimentarias y volcanosedimentarias con facies con posibilidad
+de contener fósiles, aún cuando carecen de antecedentes
+paleontológicos bibliográficos. Desde el punto de vista
+sedimentológico, se trata de facies que por el ambiente sedimentario
+que representan, podrían albergar restos paleontológicos. También
+se incluyen en esta categoría unidades geológicas que han sido
+cartografiadas con una escala de poco detalle y no permite localizar
+dónde se encuentran los niveles susceptibles y/o fosilíferos.
+2.1.3 Fosilífera (potencial paleontológico medio a alto). Son aquellas
+unidades sedimentarias y volcanosedimentarias, en las cuales
+previamente se ha reportado su contenido fosilífero, tanto en la
+literatura (artículos y resúmenes científicos, SEIA, etc.) como durante
+la inspección visual en terreno.
+
+2.2 Descripción de unidades “susceptibles” y “fosilíferas”.
+Para estas unidades se debe incluir una descripción geológica detallada
+(miembros, estratos, niveles, estructuras sedimentarias, etc.) de las unidades
+agrupadas en las categorías “susceptibles” y “fosilíferas” presentes en el área
+de estudio. Esta descripción incluirá la presencia de fósiles (en bibliografía o
+en inspección visual) y la descripción, textual y fotográfica, de los mismos,
+con clasificación taxonómica, al menos hasta nivel de familia.
+2.- En esta etapa se debe considerar el análisis de los datos recopilados en la revisión bibliográfica, incluyendo el cotejo de las obras previstas por el proyecto (Carta Gantt, ubicación de excavaciones, etc).
+Además se considerará la información recopilada en terreno.
+8
+
+2.3.Cartografía (mapa
+paleontológico.
+
+o
+
+plano)
+
+de
+
+contexto
+
+geológico
+
+y
+
+Se deberá considerar la base cartográfica disponible3. Si no existiera
+tal cartografía, ni siquiera una elaborada por el titular, el profesional
+paleontólogo o su equipo deberán realizar una cartografía esquemática
+basada en el recorrido pedestre de la totalidad del área del proyecto, incluida
+su área de influencia1, mapeando todos los afloramientos existentes con
+descripción de las unidades geológicas y su respectiva clasificación oficial
+(Formación, miembro, unidad, etc.). Sobre esta cartografía se proyectará
+(UTM, Datum WGS 84, Huso correspondiente) lo siguiente:
+2.3.1 Alcance y límite de y actividades del proyecto y área de influencia
+de éste.
+2.3.2 Columnas estratigráficas levantadas (Etapa 1, punto 1.3.3.3).
+2.3.3 Distribución de las unidades “susceptibles” y/o “fosilíferas”
+detectadas en la etapa anterior del estudio.
+2.3.4 Track y coordenada geográfica de todos los afloramientos o
+puntos de observación, destacando aquellos donde se hallaron
+fósiles, indicando si son “rodados” o están “in situ”.
+2.3.5 Localización de sondajes y calicatas inspeccionadas (Etapa 1,
+punto 1.2.2) y/o propuestas (Etapa 3, punto 3.2.1), si aplica.
+2.3.6 Localización de hallazgos paleontológicos (en bibliografía y en
+terreno).
+2.3.7 Toda la información de esta proyección se entregará también en
+formato digital (kmz).
+2.4 Impacto sobre unidades “susceptibles” y “fosilíferas”
+2.4.1 Indicar en qué tramos o sectores de la obra se van a producir
+movimientos de tierras y/o excavaciones que afecten a unidades
+“susceptibles” y “fosilíferas”, considerando la información de Etapa
+1, punto 1.2 y Etapa 2, puntos 2.1, 2.2 y 2.3.
+En el caso de proyectos evaluados en el SEIA, donde se evidencie que
+3.- Si se considera la del Sernageomin deberá ser escala 1:100.000 si existiera para esa zona, o en su lugar,
+la mayor escala posible (p.ej.:1:250.000). Puede considerarse una cartografía a mayor escala si corresponde a un paper de un autor o elaborada por el titular (ej. Proyectos mineros).
+9
+
+durante su ejecución se van a impactar unidades clasificadas como
+“fosilíferas”, niveles paleontológicos o puntos de interés (p.ej. hallazgos
+paleontológicos y sus niveles), se deberá tener en cuenta lo siguiente:
+2.4.2 Entrega de todos los antecedentes requeridos para otorgar el PAS
+132 (artículo 132, DS 40/2012). Durante la evaluación ambiental,
+estos antecedentes serán evaluados por el CMN, y deberá incluirse
+carta de compromiso del director de la institución que recibirá los
+materiales paleontológicos. Una vez aprobada la RCA del proyecto,
+se podrá tramitar el PAS 132.
+2.4.3. Proponer medidas de protección (DIA-EIA), control (DIA), mitigación y/o compensación (EIA). Se considerará el cronograma, plan de
+trabajo o Carta Gantt del proyecto, así como las medidas descritas
+en Etapa 3 de la presente Guía4.
+
+2.5 Currículo y firma del informe.
+2.5.1 Deberá adjuntarse el Currículum del paleontólogo responsable de
+la elaboración de dicho informe, según el perfil establecido por el
+CMN, disponible en la página web5.
+2.5.2 Todos los documentos que tengan relación con el componente
+paleontológico, sean textos o planos, deben ir firmados por el
+paleontólogo que los haya elaborado.
+
+3.1 La evaluación de impactos
+Por las obras de un proyecto al componente paleontológico, deberá
+considerar lo siguiente:
+3.1.1 Esta evaluación aplica para proyectos que ingresen al SEIA bajo
+la modalidad de EIA y corresponda evaluar el impacto ambiental
+en el componente paleontológico (artículo 11° del Decreto 95 del
+Reglamento del SEIA).
+3.1.2 También para proyectos que voluntariamente opten por evaluar
+4.- Sin perjuicio de que el profesional paleontólogo a cargo pueda añadir otras medidas.5.- http://www.monumentos.cl/consejo/606/articles-53903_documento.pdf
+10
+
+3.- ETAPA TRES
+EVALUACION DE IMPACTOS
+Y PROPUESTAS DE MEDIDAS
+
+el impacto ambiental sobre el componente paleontológica (P.ej.
+proyectos que no ingresen al SEIA y afectos a la Ley 17.288 de
+Monumentos Nacionales).
+3.1.3 En cualquiera de los dos casos anteriores, cuando se evalúe el
+componente paleontológico, independientemente de la fórmula
+que se utilice, se deberá tener en cuenta que el carácter del impacto
+debe considerarse siempre “negativo” (-1) o “neutro” (0), nunca
+“positivo”. Esto debido al carácter irreversible de la afectación al
+patrimonio paleontológico y la necesidad de proponer de medidas
+de control, mitigación y/o compensación.
+3.1.4 En cualquier caso que se propongan medidas de control, mitigación
+y/o compensación, deberá indicarse claramente los periodos,
+plazos y/o fechas de ejecución/entrega de los informes, productos,
+actividades, servicios que se comprometan y consignen durante la
+evaluación ambiental, con sus respectivos medios de verificación.
+
+3.2 Medidas de control y mitigación
+3.2.1 Excavación de calicatas6 en Unidades Fosilíferas7 . Se tendrá en
+cuenta lo siguiente:
+3.2.1.1 En las unidades clasificadas como “fosilíferas“, tanto si afloran
+en superficie como si están cubiertas por otras formaciones cuyo
+espesor pueda ser menor que la profundidad de las excavaciones
+del proyecto, se realizará, como medida de mitigación o de
+control, el rescate y una recolección para la elaboración de una
+colección de referencia. Para ello se excavarán calicatas.
+3.2.1.2 En unidades geológicas mesozoicas y paleozoicas que, por
+sus características litológicas, no permitan la excavación de una
+calicata, se podrá prescindir de la excavación siempre que sea
+debidamente justificado.
+6.- Para efectos de esta Guía, el término “calicata” se considera sinónimo de “pozo de sondeo”.
+7.- Para ejecutar esta medida deberán entregarse, durante la evaluación de un proyecto en el marco del
+SEIA, los antecedentes del PAS 132 (Art. N° 132 del D.S. N° 40/2012 del Ministerio de Medio Ambiente).
+Las calicatas se ejecutarán una vez aprobada la RCA del proyecto y antes de que empiece a ejecutarse los
+movimientos de tierra y/o excavaciones del proyecto. No obstante, en determinadas ocasiones el CMN
+podría solicitar que las calicatas se ejecuten durante el proceso de evaluación. En ese caso se deberá
+solicitar al CMN permiso de prospección y/o excavación según los requerimientos del artículo 7º del
+Reglamento de la Ley Nº 17.288, sobre excavaciones y/o prospecciones arqueológicas, antropológicas y
+paleontológicas.
+11
+
+3.2.1.3 El número y ubicación de las calicatas a excavar quedará a
+criterio del paleontólogo, debidamente justificado, respecto
+al potencial paleontológico de las unidades, a los movimientos
+de tierra y/o excavaciones previstas en el proyecto. El CMN
+determinará si estima conveniente aumentar dicho número,
+en función de las características del proyecto y/o el contexto
+geológico y paleontológico de la zona. El lugar elegido para las
+calicatas será a criterio del paleontólogo y debe ser justificado
+debidamente.
+3.2.1.4 Todas las calicatas deben tener dimensiones 3x2m como mínimo
+y su profundidad dependerá de las excavaciones previstas por el
+proyecto. Se recomienda que sean visadas por el prevencionista
+de riesgos del proyecto.
+3.2.1.5 Se realizará prospección paleontológica de los perfiles de las
+calicatas.
+3.2.1.6 Por cada calicata se debe elaborar una columna estratigráfica
+en detalle, localización de los fósiles hallados (si aplica) y
+fotografías generales y en detalle, de los perfiles de cada calicata.
+En los niveles o estratos que estén formados por sedimento poco
+consolidado (ej. Arcillas, limos, arenas finas, medias), se tomarán
+muestras de sedimento para análisis paleontológico según la
+técnica que se especifica en el Anexo.
+
+3.2.1.7 Sin perjuicio de lo indicado para las calicatas, el paleontólogo
+puede proponer afloramientos, situados dentro del área de
+influencia del proyecto1, donde tomar muestras para análisis
+paleontológicos.
+3.2.1.8 En el caso de hallar fósiles en las calicatas, estos deberán ser
+rescatados y reportados siguiendo la “Guía para la elaboración
+de informes de rescate paleontológico” disponible en la página
+web8.
+3.2.2 Monitoreo paleontológico en Unidades Susceptibles y Fosilíferas.
+Se tendrá en cuenta lo siguiente:
+8.- http://www.monumentos.cl/consejo/606/articles-39477_documento_01.pdf
+12
+
+3.2.2.1 El profesional a cargo deberá realizar una propuesta
+metodológica para la ejecución de campañas de monitoreo
+regulares durante las excavaciones y actividades que impliquen
+movimientos de tierra de las obras y actividades para las fases de
+construcción y operación del proyecto en zonas sensibles desde el
+punto de vista paleontológico. La propuesta deberá contemplar
+monitoreo de las zonas de acopio de la roca explotada en los
+niveles fosilíferos.
+3.2.2.2 Se deberá justificar debidamente la frecuencia del monitoreo.
+Las marinas procedentes de niveles fosilíferos estarán separadas
+del resto de las marinas9.
+3.2.2.3 Durante la ejecución del monitoreo, se entregarán informes
+mensuales, sólo en formato digital, a este Consejo (CMN). El plazo
+máximo de entrega es 15 días hábiles después del último monitoreo
+del mes. Se debe indicar la metodología utilizada. Cada monitoreo
+debe quedar reflejado en registro fotográfico y en una columna
+estratigráfica sintética de los materiales que afloren. Los hallazgos
+fosilíferos deberán ubicarse en dicha columna estratigráfica (con
+escala). Se incluirá una proyección de la obra, sobre una base
+geológica, a la mayor escala disponible para la zona, a la que se
+superponga la localización exacta de los puntos de monitoreo
+con coordenadas UTM (Datum WGS84, Huso correspondiente).
+Esta proyección se actualizará con cada informe mensual donde
+se sumarán los nuevos puntos monitoreados.
+3.2.2.4 Las visitas del paleontólogo quedarán registradas en el libro
+de obra, que será fotocopiado para ir incluido en cada uno de los
+informes mensuales de monitoreo.
+3.2.2.5 En caso de que durante el monitoreo haya que hacer
+prospección o excavación paleontológica10, se entregará un
+informe según “Guía para la elaboración de informes de rescate
+Paleontológico”, del CMN .
+3.2.2.6 Si el hallazgo paleontológico es imprevisto y no se tiene
+permiso del CMN para llevar a cabo la excavación o recolección
+9.- Para efectos de esta Guía se consideran “marinas” el producto de las excavaciones, ya sean a cielo
+abierto o en túnel o galería, y que están formadas por tierras de textura granulométrica homogénea o
+mezclada.
+10.- Tanto si entregaron antecedentes para la obtención del PAS 132 durante la evaluación ambiental,
+como si no, deberá solicitar el permiso de prospección y/o excavación paleontológica para poder realizar
+recolección o excavación paleontológica durante el monitoreo.
+13
+
+de los bienes, deberá actuarse según indica el protocolo de este
+Servicio11, hasta que se obtenga el permiso correspondiente
+3.2.3 Perímetros de seguridad
+3.2.3.1 Establecer perímetros de seguridad, en las zonas donde se
+encontraron sitios paleontológicos dentro del área de influencia
+del proyecto o próximo a ella.
+3.2.3.2 Deberá remitirse a este Consejo un informe ejecutivo referido
+a la instalación de estas medidas de protección, junto a un registro gráfico y georreferenciado de su ubicación.
+3.2.4 Charlas de capacitación paleontológica
+3.2.4.1 Las charlas serán realizadas o supervisadas por el
+paleontólogo5 a cargo del informe paleontológico y deberán incluir
+un protocolo de procedimiento ante hallazgos paleontológicos
+imprevistos12, que debe estar en conocimiento de todos los
+trabajadores, especialmente del encargado de medio ambiente
+de la obra.
+
+3.2.4.2 El contenido de las charlas de inducción se entregará como
+propuesta para ser visitada por el CMN.
+3.2.4.3 Las charlas deberán ser ejecutadas antes del inicio de obras y
+cada vez que entre una empresa contratista nueva.
+3.2.4.4 Los contenidos transmitidos en la inducción no deben
+aumentar la vulnerabilidad del componente paleontológico de la
+zona, por tanto se deberá evitar dar la ubicación exacta de sitios
+paleontológicos de interés.
+3.2.4.5 Una vez realizada la última inducción en el proyecto, en un
+plazo no mayor a 20 días hábiles, se deberá remitir un registro
+fotográfico por fechas y las listas de asistencia firmadas para cada
+charla.
+
+3.3 Medidas de compensación13
+11.- http://www.monumentos.cl/consejo/606/articles-39477_documento_01.pdf
+12.- Véase: http://www.monumentos.cl/consejo/606/articles-39477_documento_07.pdf
+13.- Estas medidas aplican para el caso de EIA. Para ejecutar estas medidas deben ser presentadas al
+14
+
+Depósito en instituciones. Se tendrá en cuenta lo siguiente:
+3.3.1 Propuesta de localización de los ejemplares fósiles obtenidos
+durante recolección o rescate, en alguna institución de la región
+o Museo Nacional de Historia Natural de Santiago. Para que el
+CMN pueda otorgar destino de los fósiles en algunas de estas
+instituciones se deberán cumplir los siguientes requisitos:
+3.3.1.1 El titular deberá encargarse del proceso curatorial
+(preparación, restauración, embalaje, catalogación, etc.) de los
+ejemplares fósiles entregados a la institución receptora.
+3.3.1.2 Dicha institución deberá contar con estándares mínimos de
+registro, conservación y manejo de colecciones.
+3.3.1.3 Será necesaria una carta de parte de la institución que
+se propone como receptora, con el compromiso y autorización
+de esta institución, donde se explicite un plan de registro,
+conservación y libre acceso a los investigadores.
+
+3.3.2. Actividades o productos destinados a la comunidad. Se sugieren
+las siguientes actividades que den a conocer, promuevan y/o
+faciliten la entrega de conocimientos en temas asociados al
+patrimonio paleontológico local y nacional, como los siguientes:
+3.3.2.1 Realización de exposiciones, seminarios, charlas, talleres.
+3.3.2.2 Elaboración de libros, guías, ilustraciones, material de
+folletería, entre otros.
+3.3.2.3 Realizar publicaciones sobre el patrimonio paleontológico,
+cuya elaboración sea asesorada por especialistas en el tema.
+Estas pueden ser publicaciones de difusión, de carácter científico
+(en revistas revisadas por pares) u otras de difusión para diversos
+públicos objetivos.
+3.3.2.4 Elaboración de material didáctico y propuesta de
+actividades para hacer uso de dicho material.
+3.3.2.5 Propuestas de museografías, conservación, exhibición y/o
+puesta en valor de bienes paleontológicos.
+CMN para su visación.
+15
+
+3.3.2.6 Construcción o acondicionamiento de depósitos para
+bienes patrimoniales.
+3.3.2.7 Financiamiento de análisis, estudios o proyectos
+de protección, conservación y difusión de yacimientos
+paleontológicos.
+
+1. Introducción
+Esta técnica se aplica para fósiles de pequeño tamaño, entre los cuales
+destacan aquellos constituidos por partes de esqueletos de vertebrados,
+que son obtenidos principalmente por técnicas de lavado-tamizado y uso
+de lupa para su estudio (Peláez-Campomanes y Morales , 2005). Cualquier
+otro resto fósil no perteneciente a vertebrado, que sea obtenido por esta
+técnica, podrá ser considerado como valioso por el paleontólogo, si está
+justificado debidamente (especie nueva, relevancia bioestratigráfica, p.ej.).
+2. Técnica de muestreo
+Una vez excavada la calicata, en los niveles o estratos que estén formados
+por sedimento poco consolidado (ej. Arcillas, limos, arenas finas, medias),
+se tomarán muestras de sedimento para análisis paleontológico (véase
+Etapa 3, punto 3.2). Para cada uno de los niveles o estratos se tomará una
+muestra de 50 Kg.
+Para tomar la muestra se deberán tener en cuenta los siguientes puntos:
+- Cuando sean diferentes estratos, separados por otro tipo de sedimento
+16
+
+ANEXO
+
+ANÁLISIS PALEONTOLÓGICO DE VERTEBRADOS
+OBTENIDO POR LAVADO-TAMIZADO
+
+no apto para muestrear (gravas, p.ej.), se tomará, siempre que sea
+posible, una muestra de 50 Kg. por cada estrato. Se debe tener
+cuidado de evitar recoger sedimentos mezclados de diferentes
+niveles de sedimentos.
+
+- La ubicación de la muestra o muestras en la calicata debe quedar
+reflejada con total exactitud en la columna estratigráfica. Se
+marcará en las fotos que se obtengan del frente.
+- Siempre que sea posible, la muestra deberá ser tomada por el propio
+monitor paleontólogo o ayudantes, utilizando herramientas de
+mano (picotas, palas, etc.), de manera de saber con exactitud
+dónde se tomó la muestra.
+- El sedimento, tomado en afloramiento, frente o de marinas, se
+almacenará en sacos para transportarlo. En el interior y exterior
+de los sacos se colocarán etiquetas, debidamente protegidas
+para evitar el deterioro, donde figuren los datos del lugar (Punto
+Kilométrico de la obra, nombre de la obra, fecha de muestreo,
+punto GPS, posición estratigráfica, según corresponda).
+- Todas las muestras de sedimento que se tomen serán llevadas a un
+lugar, dentro de las obras o fuera de ellas, donde se centralice el
+tratamiento de este tipo de muestras. El Lugar deberá contar con
+suficiente espacio para poder llevar a cabo los diferentes procesos
+que conlleva el lavado y tamizado de sedimento y con suministro de
+agua en cantidad y presión suficientes.
+
+3. Técnica de lavado y tamizado
+Para el lavado y tamizado se seguirá el siguiente procedimiento, teniendo
+en cuenta que el profesional paleontólogo que supervise los trabajos
+siempre podrá proponer cambios, con la debida justificación, y luego de
+contactarse previamente con el CMN y con debida justificación. El CMN
+determinará si autoriza los cambios propuestos.
+Se tendrán en cuenta los siguientes pasos:
+
+3.1 Secado e inmersión:
+17
+
+Se abre un saco de 50 Kg. de muestra. Como preparación para
+el lavado de las muestras, los sedimentos se dejan secar al sol14.
+Una vez secos se acomodan en recipientes (cubos, cubetas, etc.)
+y se les añade el agua suficiente para que queden completamente
+cubiertos. De este modo se consigue que los terrones de sedimento
+absorban agua y empiecen a disgregarse.
+
+3.2 Lavado sobre tamices:
+Cuando el sedimento ha sido sumergido en agua y está disgregado
+se procede al lavado, proceso mediante el cual con ayuda de un
+caudal de agua a presión suficiente se hace pasar la muestra depositada en cubos o cubetas, por una serie de tamices. Se deben tener
+en cuenta los siguientes aspectos:
+3.2.1 Los tamices básicos son cuatro: los más finos de 0,5 y 0,7
+mm de luz de malla, el de 2 ó 2,5 mm y el más grueso de 10
+mm (véase imagen 2). Los tamices se montan sobre cajones de
+dimensiones aproximadas 100 x 50 cm.
+3.2.2 La muestra, que previamente ha sido secada al sol y dispuesta
+en recipientes de agua para su disgregación, se deposita sobre el
+tamiz de mayor abertura (10 mm, p.ej.). Sólo con la fuerza de la
+presión del agua, se hará pasar el sedimento por los sucesivos
+tamices, desde 10 mm a 0,5 mm (el más inferior de todos).
+3.2.3 Los tamices pueden estar dispuestos uno debajo de otro en
+forma de “torre” o de forma escalonada (véanse imágenes 1 y 2).
+Es importante que el sedimento nunca rebose del borde de los
+cajones de los tamices, porque se puede perder muestra.
+3.2.4 Cada vez que se cambie de muestra de 50 Kg. hay que
+limpiar totalmente los tamices, para evitar la mezcla de muestra.
+La limpieza se hace con agua a presión y cepillo con cerdas de
+metal para los tamices.
+3.2.5 Tras el lavado-tamizado del sedimento, el residuo se deja
+14.- Si las condiciones climáticas no fueran idóneas, se puede optar por secar la muestra en horno o
+estufa especiales, a temperaturas en torno a 150 ºC, nunca superiores a 200 ºC, donde el sedimento se
+calentará muy extendido en bandejas. El secado en horno doméstico debe ser con ciertas precauciones.
+El tiempo de secado será variable, según la textura y la humedad del sedimento.
+18
+
+secar al sol, extendido sobre plásticos o bandejas, separado
+por los distintos tamaños que han retenido los tamices14. Si es
+necesario, una vez seca la muestra, se puede volver a someter a
+inmersión y se lava de nuevo. Si después de dos ciclos de lavadosecado-inmersión de una muestra, hay una parte del sedimento
+difícil de disgregar por alguna característica química, se tendrá en
+cuenta lo siguiente antes de volver a lavar:
+- En caso de que el sedimento tenga alto contenido en Yeso, la
+muestra puede ser calentada en una estufa u horno a 200 ºC,
+hasta que el mineral de yeso se deshidrata, se vuelve blanco
+brillante y es fácilmente soluble en agua (Peláez-Campomanes
+y Morales , 2005).
+- Si la muestra contiene carbonato, el sedimento deberá ponerse
+en disolución de ácido acético al 15%, al menos durante un
+día y medio. Otros autores recomiendan una solución de ácido
+acético al 10 % (Daams y Freudenthal, 1988).
+- Si hay alto contenido en materia orgánica (lignitos, limos
+negros, etc.), el sedimento se puede sumergir en una solución
+de peróxido de hidrógeno al 15% (Peláez-Campomanes y
+Morales, 2005).
+
+3.3.- Triado del residuo:
+Tras el lavado-tamizado del sedimento, el residuo se deja secar al
+sol, extendido sobre plásticos o bandejas, separado por los distintos
+tamaños que han retenido los tamices14. Una vez secada la muestra,
+se realiza el triado, que consiste en la revisión del residuo, separado
+según los distintos tamaños que han separado los tamices. Los
+tamaños superiores a 2 mm de diámetro se pueden revisar a simple
+vista o bien utilizando lupas de 2 a 4 aumentos. Para los diámetros
+inferiores se utilizan lupas binoculares con mayores aumentos. La
+separación de los restos fósiles de microvertebrados se puede hacer
+con palillos o pinceles finos.
+Si en el triado se detectan dientes o cualquier otra pieza de valor
+taxonómico para algún grupo fósil, en una proporción de cuatro
+dientes o piezas por 50 Kg, se considerará que la muestra es
+“positiva”. En ese caso se establecerá de forma obligatoria monitoreo
+19
+
+permanente en la zona donde se tomó esta muestra y hasta que
+desaparezca el nivel o niveles donde se tomaron las muestras.
+Además, deberá tomarse una muestra de 200 Kg en el mismo
+nivel o estrato de la calicata15, frente de trabajo o afloramiento
+(véase Etapa 3, punto 3.2), donde se tomó la muestra “positiva”,
+a ser posible en el mismo punto. Por esta razón el proceso de
+lavado-tamizado-triado de cada muestra de 50 Kg debe realizarse
+a la mayor brevedad posible, de manera que si sale “positiva”, se
+pueda tomar en un corto plazo de tiempo la muestra de 200 Kg
+correspondiente. Esta muestra se someterá al mismo análisis de
+lavado-tamizado-triado que la muestra de 50 Kg anterior.
+
+3.4.- Montaje y clasificación:
+Los restos fósiles obtenidos tras el triado se colocan en pequeñas
+cajas fijados con una pasta no grasa, para su posterior estudio y
+clasificación taxonómica.
+Al igual que con los restos paleontológicos que se encuentran en un
+monitoreo a simple vista, los fósiles que se hayan obtenido durante
+el triado (muestras de 50 y 200 Kg.), deberán ir reflejados en el
+correspondiente informe de monitoreo y se propondrá al CMN un
+lugar de destinación transitoria y final.
+
+15.- Si la calicata o el frente no pudiera permanecer abierto o detenido varios días, debería tomarse la
+muestra de 200 Kg. en ese mismo punto cuando se haga el monitoreo paleontológico, en base a las
+coordenadas UTM y datos estratigráficos tomados en la calicata.
+
