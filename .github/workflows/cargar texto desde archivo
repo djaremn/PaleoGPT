@@ -1,0 +1,10 @@
+def cargar_texto_desde_archivo(nombre_archivo):
+    with open(nombre_archivo, "r", encoding="utf-8") as archivo:
+        return archivo.read()
+
+
+textos_ejemplo = [
+    cargar_texto_desde_archivo("texto_ejemplo1.txt"),
+    cargar_texto_desde_archivo("texto_ejemplo2.txt"),
+    # ... más ejemplos si es necesario
+]
