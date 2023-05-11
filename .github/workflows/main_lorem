@@ -2,7 +2,7 @@ import openai
 import config
 
 openai.api_key = config.openai_key
-
+//rubrica y elementos clave son archivos txt que se hospedan en la misma ruta que main_lorem.py (este programa)
 def generar_informe(rubrica, elementos_clave):
     mensajes = [
         {"role": "system", "content": f"Generar un informe sobre {elementos_clave} que cumpla con la siguiente rubrica:\n{rubrica}"},
