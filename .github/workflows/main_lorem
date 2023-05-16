@@ -1,5 +1,8 @@
 import openai
 import config
+from docx import Document
+from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
+from docx.shared import Pt
 
 openai.api_key = config.openai_key
 //rubrica y elementos clave son archivos txt que se hospedan en la misma ruta que main_lorem.py (este programa)
@@ -23,6 +26,28 @@ def generar_informe(rubrica, elementos_clave):
 
     informe = "\n".join([mensaje["content"] for mensaje in mensajes if mensaje["role"] == "assistant"])
     return informe
+    
+def guardar_informe_en_word(informe):
+    doc = Document()
+
+    # Añadir título al documento
+    titulo = doc.add_paragraph('Informe Generado')
+    titulo.style = doc.styles['Title']
+    titulo.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
+
+    # Añadir subtítulo al documento
+    subtitulo = doc.add_paragraph('Rúbrica y elementos clave')
+    subtitulo.style = doc.styles['Heading 1']
+    subtitulo.alignment = WD_PARAGRAPH_ALIGNMENT.LEFT
+
+    # Añadir el texto del informe como cuerpo del documento
+    cuerpo = doc.add_paragraph(informe)
+    cuerpo.style = doc.styles['Body Text']
+    cuerpo_font = cuerpo.style.font
+    cuerpo_font.size = Pt(12)
+
+    # Guardar el documento en formato .docx
+    doc.save('informe.docx')
 
 if __name__ == "__main__":
     rubrica = open('rubrica.txt', 'r').read()
@@ -30,3 +55,7 @@ if __name__ == "__main__":
     informe = generar_informe(rubrica, elementos_clave)
     print("Informe generado:")
     print(informe)
+
+    # Guardar el informe en un archivo de Word
+    guardar_informe_en_word(informe)
+    print("Informe guardado en 'informe.docx'")
