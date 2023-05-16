@@ -1,0 +1,30 @@
+import openai
+import config
+
+openai.api_key = config.openai_key
+
+def leer_aspecto(num_aspecto):
+    with open(f'aspecto_{str(num_aspecto).zfill(2)}.txt', 'r') as archivo:
+        return archivo.read()
+
+def generar_informe(num_aspectos, elementos_clave):
+    mensajes = []
+    
+    # Inicialmente, leemos y "entendemos" cada aspecto uno por uno
+    for i in range(1, num_aspectos + 1):
+        aspecto = leer_aspecto(i)
+        mensajes.append({"role": "system", "content": f"Por favor, entiende este aspecto de la rubrica: {aspecto}"})
+        
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=mensajes,
+        )
+        respuesta_assistente = response.choices[0].message['content']
+        mensajes.append({"role": "assistant", "content": respuesta_assistente})
+
+    print("Finalización de toma de conciencia. ¿Desea que lea los datos de su campaña y genere el informe?")
+    
+    # Aquí puedes añadir el código que maneja la lectura de los datos de la campaña y la generación del informe
+
+if __name__ == "__main__":
+    generar_informe(4, 'elementos_clave.txt')
