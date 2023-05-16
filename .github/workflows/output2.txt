@@ -1,0 +1,2143 @@
+Texto extraído del PDF:
+Esta Guía ha sido elaborada por el Servicio de Evaluación Ambiental, proceso liderado por
+el Departamento de Estudios y Desarrollo de la División de Evaluación Ambiental y Partici-
+pación Ciudadana, con la colaboración de la División Jurídica.
+Agradecemos a todas las personas que hicieron posible esta publicación, especialmente a
+los profesionales del Consejo de Monumentos Nacionales.PRESENTACIÓNDando cumplimiento a un mandato legal, el el Sistema de Evaluación de Impacto Ambiental,
+Servicio de Evaluación Ambiental se en- contribuyendo con la disminución de los márge-
+cuentra uniformando los criterios, requisi- nes de discrecionalidad en la toma de decisiones
+tos, condiciones, antecedentes y exigencias téc- y la tecnificación de dicho Sistema.
+nicas de la evaluación de impacto ambiental de
+proyectos y actividades, entre otros, mediante La elaboración de esta Guía se hizo en colabo-
+la elaboración de guías. ración con el Consejo de Monumentos Naciona-
+les y se espera que contribuya a perfeccionar el
+Dicha labor requiere establecer criterios comu- SEIA y fortalecer el cumplimiento de los objeti-
+nes y consistentes con el conjunto de compe- vos que nos aproximen al desarrollo sustentable
+tencias ambientales de los distintos órganos de del país.
+la administración del Estado que participan en
+Ignacio Toro Labbé
+Director Ejecutivo
+Servicio de Evaluación AmbientalECIDNÍSIGLAS 8
+1. ALCANCES GENERALES DE LA EVALUACIÓN DE IMPACTO AMBIENTAL 10
+2. OBJETIVO Y ALCANCE DE LA GUÍA 11
+3. DEFINICIÓN Y CLASIFICACIÓN DEL PATRIMONIO 14
+3.1 Patrimonio Natural 14
+3.2 Patrimonio Cultural 14
+4. ÓRGANOS CON COMPETENCIA AMBIENTAL SOBRE MONUMENTOS
+NACIONALES 15
+5. MONUMENTOS NACIONALES PERTENECIENTES AL PATRIMONIO
+CULTURAL 16
+5.1 Monumentos Históricos 16
+5.2 Monumentos Arqueológicos 17
+5.3 Zonas Típicas o Pintorescas 17
+6. CARACTERIZACIÓN Y LEVANTAMIENTO DE INFORMACIÓN DEL ÁREA
+DE INFLUENCIA 18
+6.1 Monumentos Históricos 18
+6.2 Monumentos Arqueológicos 18
+6.3 Zonas Típicas o Pintorescas 23
+7. EVALUACIÓN DE LA ALTERACIÓN DE MONUMENTOS NACIONALES 24
+8. PERMISOS AMBIENTALES SECTORIALES 24
+REFERENCIAS 26SIGLASA continuación se listan las principales siglas que se utilizan en esta Guía:
+CMN : Consejo de Monumentos Nacionales
+DIA : Declaración de Impacto Ambiental
+EIA : Estudio de Impacto Ambiental
+MMA : Ministerio del Medio Ambiente
+PAS : Permiso Ambiental Sectorial
+RCA : Resolución de Calificación Ambiental
+SEA : Servicio de Evaluación Ambiental
+SEIA : Sistema de Evaluación de Impacto Ambiental
+UNESCO : Organización de las Naciones Unidas para la Educación,
+la Ciencia y la Cultura
+9
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+1 ALCANCES GENERALES DE LA EVALUACIÓN
+DE IMPACTO AMBIENTAL
+Según lo establecido por el marco legal vigente, a) Riesgo para la salud de la población, debido
+la evaluación de impacto ambiental es el proce- a la cantidad y calidad de efluentes, emisiones
+dimiento orientado a determinar si el impacto o residuos;
+ambiental de una actividad o proyecto se ajusta
+a las normas vigentes1. Como tal, debe contem- b) Efectos adversos significativos sobre la canti-
+plar mecanismos a través de los cuales se deter- dad y calidad de los recursos naturales renova-
+mina el referido impacto y su significancia, así bles, incluidos el suelo, agua y aire;
+como el cumplimiento de las normas ambienta-
+les aplicables. La Ley N° 19.300, sobre Bases c) Reasentamiento de comunidades humanas, o
+Generales del Medio Ambiente (Ley N° 19.300), alteración significativa de los sistemas de vida y
+establece que dicho procedimiento está a cargo costumbres de grupos humanos;
+del Servicio de Evaluación Ambiental (SEA).
+d) Localización en o próxima a poblaciones,
+En términos generales, la evaluación de impacto recursos y áreas protegidas, sitios prioritarios
+ambiental en el marco del Sistema de Evalua- para la conservación, humedales protegidos
+ción de Impacto Ambiental (SEIA) se basa en y glaciares, susceptibles de ser afectados, así
+el análisis de las partes, obras y acciones de un como el valor ambiental del territorio en que se
+proyecto o actividad a ejecutarse y cómo éstas pretende emplazar;
+alteran los componentes del medio ambiente in-
+volucrados. Tal ejercicio se realiza previo a la e) Alteración significativa, en términos de mag-
+ejecución del proyecto o actividad y, por tanto, nitud o duración, del valor paisajístico o turístico
+se basa en una predicción de la evolución de los de una zona;
+componentes ambientales en los escenarios con
+y sin proyecto. f) Alteración de monumentos, sitios con valor
+antropológico, arqueológico, histórico y, en gene-
+El titular de un proyecto o actividad debe anali- ral, los pertenecientes al patrimonio cultural.
+zar si éste se encuentra en el listado de tipolo-
+gías susceptibles de causar impacto ambiental, De acuerdo a lo anterior, la generación o pre-
+en cualquiera de sus fases, que deben some- sencia de uno de estos efectos, características
+terse al SEIA (artículo 10 de la Ley N° 19.300 y o circunstancias hace necesario que el titular
+artículo 3 del Reglamento del SEIA). del proyecto o actividad elabore un EIA, el cual
+debe considerar las materias contenidas en el
+En este sentido, el titular del proyecto o acti- artículo 12 de la Ley N° 19.300:
+vidad debe tener a la vista el Oficio Ordinario
+N° 043710, del 28 de diciembre de 2004, de a) Una descripción del proyecto o actividad;
+la Dirección Ejecutiva de la Comisión Nacional
+del Medio Ambiente (CONAMA), que presenta b) La descripción de la línea de base, que debe-
+la actualización del listado de áreas conside- rá considerar todos los proyectos que cuenten
+radas bajo protección oficial para efectos del con resolución de calificación ambiental, aún
+SEIA, en particular, los Monumentos Nacionales, cuando no se encuentren operando;
+sin perjuicio de modificaciones posteriores al
+citado Oficio. c) Una descripción pormenorizada de aquellos
+efectos, características o circunstancias del ar-
+Por último, es responsabilidad del titular del tículo 11 que dan origen a la necesidad de efec-
+proyecto o actividad definir la modalidad de in- tuar un Estudio de Impacto Ambiental;
+greso al SEIA a través de un Estudio de Impacto
+Ambiental (EIA) o una Declaración de Impacto d) Una predicción y evaluación del impacto am-
+Ambiental (DIA). Para ello, corresponde el análi- biental del proyecto o actividad, incluidas las
+sis del artículo 11 de la Ley N° 19.300, donde se eventuales situaciones de riesgo;
+establece que los proyectos que se sometan al
+SEIA requieren la elaboración de un EIA si gene-
+ran o presentan a lo menos uno de los siguien-
+tes efectos, características o circunstancias:
+1 Definición de Evaluación de Impacto Ambiental, letra j) del
+artículo 2 de la Ley N° 19.300.
+10e) Las medidas que se adoptarán para eliminar c) La indicación de la normativa ambiental apli-
+o minimizar los efectos adversos del proyecto cable, y la forma en la que se cumplirá;
+o actividad y las acciones de reparación que se
+realizarán, cuando ello sea procedente; d) La indicación de los permisos ambientales
+sectoriales aplicables, y los antecedentes aso-
+f) Un plan de seguimiento de las variables am- ciados a los requisitos y exigencias para el res-
+bientales relevantes que dan origen al Estudio pectivo pronunciamiento.
+de Impacto Ambiental;
+En consecuencia, la evaluación de impacto am-
+g) Un plan de cumplimiento de la legislación biental es el procedimiento en que, a través de
+ambiental aplicable. un EIA o una DIA, debe demostrarse que el pro-
+yecto o actividad cumple con las normas am-
+Por el contrario, y de acuerdo al artículo 18 de bientales aplicables. Además, en el caso de un
+la Ley N° 19.300, si el proyecto o actividad no EIA se debe acreditar que el proyecto o activi-
+genera ninguno de los efectos, características o dad se hace cargo de los impactos ambientales
+circunstancias antes señalados, se presentará significativos que genera o presenta, enunciados
+una DIA para someterse al SEIA, la que debe en el artículo 11 de la Ley N° 19.300, mediante
+considerar las materias contenidas en el artículo la definición e implementación de medidas apro-
+12 bis de la Ley: piadas. En el caso de una DIA, se debe además
+justificar la inexistencia de impactos ambien-
+a) Una descripción del proyecto o actividad; tales significativos. La autoridad, por su parte,
+debe verificar y certificar el cumplimiento de la
+b) Los antecedentes necesarios que justifiquen normativa ambiental aplicable y calificar la per-
+la inexistencia de aquellos efectos, característi- tinencia, efectividad e idoneidad de las medidas
+cas o circunstancias del artículo 11 que pueden ambientales propuestas.
+dar origen a la necesidad de efectuar un Estudio
+de Impacto Ambiental;
+2
+OBJETIVO Y ALCANCE DE LA GUÍA
+De acuerdo a la letra f) del artículo 11 de la Ley La identificación de las partes, obras y acciones
+N° 19.300, los Monumentos que forman parte de un proyecto, así como de sus emisiones y re-
+del patrimonio cultural constituyen objetos de siduos, forman parte de la descripción del pro-
+protección ambiental, bajo el concepto omni- yecto, tanto en una DIA como en un EIA.
+comprensivo de medio ambiente establecido en
+el ordenamiento jurídico chileno y, en conse- A partir de dicha descripción, es posible rea-
+cuencia, los impactos que pueda generar o pre- lizar una primera identificación de impactos
+sentar un proyecto o actividad sobre ellos deben potenciales, la que se complementa una vez
+ser evaluados dentro del SEIA. Como se indicó conocida la caracterización y levantamien-
+anteriormente, si un proyecto o actividad altera to de información del área de influencia.
+las características de estos componentes se hace Para establecer si los impactos identificados
+necesaria la elaboración de un EIA, conforme lo son o no significativos2, se requiere realizar
+establece el artículo 11 de la Ley N° 19.300. una estimación del impacto, ya sea cualitati-
+va o cuantitativa dependiendo del componen-
+La Figura 1 ilustra las principales etapas del te ambiental y la información disponible. A la
+proceso de evaluación de impacto ambiental de identificación y estimación de impactos se le
+un proyecto y el alcance de la presente Guía denomina predicción de impactos.
+dentro de dicho proceso.
+2 Se entiende como impactos significativos aquellos efectos,
+características y circunstancias establecidos en el artículo 11
+de la Ley N° 19.300.
+11
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+La significancia de todos los impactos identifi- nacionales, reservas nacionales, monumentos
+cados se establece en función de criterios esta- naturales, reservas de zonas vírgenes, santua-
+blecidos en la Ley N° 19.300, el Reglamento del rios de la naturaleza, parques marinos, reservas
+SEIA y en guías específicas, etapa identificada marinas o en cualesquiera otras áreas colocadas
+como evaluación de impacto. bajo protección oficial, en los casos en que la
+legislación respectiva lo permita”3.
+En este marco, la presente Guía establece la in-
+formación mínima de caracterización de los Mo- Este documento define en primer lugar qué es
+numentos Nacionales que pertenecen al patri- el patrimonio en términos generales y su clasifi-
+monio cultural asociados a la letra f) del artículo cación (Capítulo 3). Luego, se identifican los ór-
+11 de la Ley N° 19.300, requerida para poder ganos de la administración del Estado con com-
+posteriormente identificar, estimar y evaluar los petencia ambiental responsables de velar por la
+potenciales impactos o alteraciones sobre éstos. protección y conservación de los Monumentos
+Asimismo, se presentan ciertos criterios para Nacionales (Capítulo 4). Posteriormente, se des-
+realizar la evaluación de impacto ambiental, es cribe cada una de las categorías de Monumento
+decir, establecer cuándo un proyecto o actividad Nacional asociados a la letra f) del artículo 11
+genera o presenta alteración de un monumento. de la Ley N° 19.300 (Capítulo 5), para luego es-
+tablecer lineamientos para la caracterización de
+Las categorías de Monumentos Nacionales per- éstos en el área de influencia del proyecto (Ca-
+tenecientes al patrimonio cultural de relevancia pítulo 6), y algunos criterios para su evaluación
+para el SEIA, que forman parte del alcance de esta de impacto (Capítulo 7). Finalmente, se presen-
+Guía, son: Monumentos Históricos, Monumen- ta de forma genérica el procedimiento asociado
+tos Arqueológicos y Zonas Típicas o Pintorescas. al otorgamiento de los Permisos Ambientales
+Sectoriales (Capítulo 8), porque el detalle de la
+Por formar parte del patrimonio natural, los información asociada a dichos permisos se en-
+Santuarios de la Naturaleza tienen relevancia en cuentra contenida en Guías Trámite del SEA4.
+el SEIA y deben ser considerados como áreas
+protegidas para efectos de evaluar el efecto, La información presentada se complementa con
+característica o circunstancia de la letra d) del los contenidos mínimos y criterios de evaluación
+artículo 11 de la Ley N° 19.300, esto es, “Loca- establecidos en la Ley N° 19.300 y el Reglamen-
+lización en o próxima a poblaciones, recursos y to del SEIA, cuyo cumplimiento es de exclusiva
+áreas protegidas, sitios prioritarios para la con- responsabilidad de todo titular de proyecto que
+servación, humedales protegidos y glaciares, se somete al SEIA.
+susceptibles de ser afectados, así como el va-
+lor ambiental del territorio en que se pretende Además, este documento se complementa con
+emplazar”. Por esta razón, no son considerados otras guías, tanto metodológicas como de crite-
+en esta Guía. Asimismo, se deberá prestar es- rios, que han sido publicadas o que se publica-
+pecial atención cuando se trate de la “Ejecución rán, en tanto están siendo elaboradas por el SEA.
+de obras, programas o actividades en parques
+3 Letra p) del artículo 10 de la Ley N° 19.300. 4 A la fecha de publicación de la presente Guía se encontraban
+en elaboración por parte del SEA Guías Trámite para cada
+uno de los Permisos Ambientales Sectoriales contenidos en el
+Título VII del Reglamento del SEIA.
+12Figura 1: Alcance de la Guía.
+13
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+3
+DEFINICIÓN Y CLASIFICACIÓN DEL PATRIMONIO
+De acuerdo a documentos de la Organización generaciones. El patrimonio es aquello que le
+de las Naciones Unidas para la Educación, la confiere una identidad determinada a un país,
+Ciencia y la Cultura (UNESCO), el patrimonio de propiedad pública o privada. A continuación,
+se define como la herencia del pasado, los bie- se presentan las clasificaciones del patrimonio.
+nes actuales y lo que se lega a las siguientes
+3.1 Patrimonio Natural
+El patrimonio natural está compuesto por las Dicho patrimonio está representado por las re-
+características físicas, geológicas o biológicas, servas de la biosfera, los monumentos natu-
+hábitats de especies de flora o fauna y zonas rales, las reservas y parques nacionales, y los
+que tienen un valor relevante desde el punto de santuarios de la naturaleza.
+vista estético, científico y/o medioambiental de
+un territorio (UNESCO, 2012).
+3.2 Patrimonio Cultural
+Como premisa básica, es necesario considerar El patrimonio cultural se puede clasificar en tan-
+que el patrimonio cultural es un bien jurídico gible e intangible y, a su vez, el patrimonio tan-
+de gran complejidad y variabilidad interna, y es gible, en mueble e inmueble.
+un recurso, por esencia, no renovable, lo que
+conlleva desafíos importantes en el diseño de El patrimonio cultural tangible presenta gran
+los mecanismos de protección y gestión. Por su significancia sociocultural porque constituye una
+particular naturaleza, el patrimonio cultural in- parte importante de la herencia de toda comu-
+cluye en sí múltiples componentes que hacen nidad o nación y de la humanidad entera, y por
+necesaria una aproximación científica y técnica ser la expresión de las culturas a través de gran-
+al tema de su protección, donde confluyen cien- des realizaciones materiales. El patrimonio cul-
+cias como la paleontología, arqueología, antro- tural intangible es considerado la parte invisible
+pología, ecología, arquitectura e historia. de las culturas y está conformado básicamente
+por lo intelectual o creaciones de la mente de
+El patrimonio cultural concentra los bienes que un pueblo, a través de la literatura, teorías cien-
+son expresiones y testimonios de la creación tíficas y filosóficas, religión, ritos y música, es
+humana propias de un país, correspondiendo decir, la cosmovisión propia que un pueblo tiene
+al conjunto de edificios, instalaciones industria- del mundo y de sí mismo.
+les, museos, obras de arte, sitios y restos ar-
+queológicos, colecciones zoológicas, botánicas No obstante las clasificaciones anteriores, el pa-
+o geológicas, libros, manuscritos, documentos, trimonio cultural presenta una realidad plural y
+partituras y discos, fotografías, producción cine- multifacética, produciéndose variadas relacio-
+matográfica, y objetos culturales en general que nes entre los bienes que lo conforman. En este
+dan cuenta de la manera de ser y hacer de un contexto, una manifestación tradicional, como
+pueblo. Dicho patrimonio es todo aquello que le es una fiesta popular, puede estar integrada
+confiere una identidad determinada a un país; por patrimonio intangible (p. ej., bailes, música
+puede ser de propiedad pública (administrados y creencias), bienes tangibles muebles (p. ej.,
+por las distintas entidades que conforman el Es- instrumentos musicales, vestimentas, utensilios
+tado) o bien de propiedad privada. Estos bienes y registros) y bienes tangibles inmuebles (p. ej.,
+son preservados porque individuos o la socie- el espacio donde se realiza, como una plaza,
+dad, a través de las organizaciones creadas para iglesia o edificación).
+ello, le confieren algún significado especial, ya
+sea estético, documental, histórico, educativo
+o científico.
+14Para facilitar la comprensión en relación a la cla- vestimentas, obras de arte, conjuntos
+sificación del patrimonio cultural, a continuación arquitectónicos, edificaciones, centros in-
+se presentan algunos ejemplos: dustriales, obras de ingeniería, cemente-
+rios, aldeas, pueblos, valles, sitios históri-
+● Patrimonio intangible: lenguaje, costum- cos, sitios arqueológicos, los Monumentos
+bres, religiones, creencias, leyendas, Nacionales, entre otros.
+mitos, música, instituciones, bailes, gas-
+tronomía, poesías, ritos, modos de vida, Los monumentos nacionales de relevancia para
+entre otros. evaluar la generación o presencia del efecto,
+característica o circunstancia de la letra f) del
+● Patrimonio tangible mueble e inmueble: artículo 11 de la Ley N° 19.300 corresponden a
+manuscritos, documentos, artefactos, Monumentos Históricos, Monumentos Arqueoló-
+colecciones, grabaciones, películas, foto- gicos y Zonas Típicas o Pintorescas.
+grafías, artesanías, libros, instrumentos,
+4 ÓRGANOS CON COMPETENCIA AMBIENTAL SOBRE
+MONUMENTOS NACIONALES
+La responsabilidad de proteger los Monumentos Aunque los Santuarios de la Naturaleza no for-
+Nacionales que forman parte del patrimonio cul- man parte de esta Guía, cabe señalar que el Mi-
+tural recae en el Consejo de Monumentos Na- nisterio del Medio Ambiente (MMA) tiene su cus-
+cionales (CMN), según lo establecido en la Ley todia, de acuerdo a la modificación del artículo
+N° 17.288 de 1970, del Ministerio de Educación, 31 de la Ley N° 17.288 y, en consecuencia, tiene
+que Legisla sobre Monumentos Nacionales (Ley la competencia para pronunciarse sobre ellos du-
+N° 17.288). Es por ello que en el SEIA, el CMN rante el proceso de evaluación. El otorgamiento
+es el órgano de la administración del Estado con del PAS para autorizar obras o actividades que
+competencia para pronunciarse respecto de: la se efectúen en los Santuarios de la Naturaleza
+caracterización de dichos Monumentos Naciona- corresponde al Servicio de Biodiversidad y Áreas
+les; la identificación, estimación y evaluación de Protegidas (SBAP), por cuanto dicha entidad es
+los potenciales impactos sobre éstos; y la ido- el administrador del Sistema Nacional de Áreas
+neidad de las medidas para hacerse cargo de di- Silvestres Protegidas del Estado y el supervi-
+chos impactos. Asimismo, existen ciertos Permi- sor de las áreas silvestres protegidas de pro-
+sos Ambientales Sectoriales (PAS) establecidos piedad privada, que incluyen los Santuarios de
+en el Título VII del Reglamento del SEIA que son la Naturaleza5.
+de competencia del CMN, el que debe pronun-
+ciarse durante el proceso de evaluación otor-
+gando o denegando el PAS, según corresponda.
+5 De acuerdo al principio de continuidad de la función pública,
+establecido en los artículos 3° y 28° de la Ley N° 18.575, la
+potestad para otorgar este PAS se mantiene en el CMN hasta
+la creación del SBAP, correspondiendo a esta entidad colegia-
+da aplicar las orientaciones que sobre la materia, y conforme
+a su competencia, señale el MMA (Dictamen N° 26.190 de
+2012 de la Contraloría General de la República).
+15
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+5 MONUMENTOS NACIONALES PERTENECIENTES AL
+PATRIMONIO CULTURAL
+Los Monumentos Nacionales corresponden a d) los monumentos, estatuas, columnas, pirámi-
+bienes patrimoniales que cuentan con protec- des, fuentes, placas, coronas, inscripciones y, en ge-
+ción oficial, ya sea mediante un procedimiento neral, los objetos que estén destinados a permane-
+establecido o por el solo ministerio de la ley. En cer en un sitio público, con carácter conmemorativo.
+efecto, el artículo 1° de la Ley N° 17.288 esta-
+blece que son monumentos nacionales y quedan Es importante señalar que los Monumentos
+bajo la tuición y protección del Estado: Nacionales pertenecientes a las categorías de
+Monumento Histórico, Zona Típica o Pintores-
+a) los lugares, ruinas, construcciones u objetos ca y Santuario de la Naturaleza, requieren de
+de carácter histórico o artístico; una declaración expresa mediante decreto para
+constituirse como tales, en tanto los Monumen-
+b) los enterratorios o cementerios u otros restos tos Arqueológicos y Monumentos Públicos son
+de los aborígenes, las piezas u objetos antro- Monumentos Nacionales por el sólo ministerio
+po-arqueológicos, paleontológicos o de forma- de la Ley N° 17.288.
+ción natural, que existan bajo o sobre la super-
+ficie del territorio nacional o en la plataforma A continuación, se presenta la descripción de las
+submarina de sus aguas jurisdiccionales y cuya categorías de Monumentos Nacionales de rele-
+conservación interesa a la historia, al arte o a vancia para evaluar el efecto, característica o
+la ciencia; circunstancia de la letra f) del artículo 11 de la
+Ley N° 19.300.
+c) los santuarios de la naturaleza;
+5.1 Monumentos Históricos
+El artículo 9° de la Ley N° 17.288 establece que Monumentos Históricos, es necesaria su decla-
+son “Monumentos Históricos los lugares, ruinas, ración mediante decreto, conforme lo señala la
+construcciones y objetos de propiedad fiscal, Ley N° 17.288, siendo el elemento esencial el
+municipal o particular que por su calidad e in- interés o valor histórico o artístico incorporado
+terés histórico o artístico o por su antigüedad, por personajes o acontecimientos sucedidos y la
+sean declarados tales por decreto supremo, dic- antigüedad del bien.
+tado a solicitud y previo acuerdo del Consejo”.
+El interés o importancia histórica debe ser consi-
+Los Monumentos Históricos pueden ser bienes derado en sentido amplio, abarcando la historia
+muebles o inmuebles, siendo irrelevante el pro- cívica, militar, religiosa, constitucional, artística,
+pietario, sólo es necesaria su susceptibilidad de literaria, científica, arquitectónica y económica
+apropiación humana. Para constituirse como del país.
+165.2 Monumentos Arqueológicos
+Todos los sitios arqueológicos y paleontológi- Los Monumentos Arqueológicos corresponden a
+cos tienen el carácter de Monumento Nacional piezas, lugares, ruinas o yacimientos con ves-
+en categoría de Monumento Arqueológico, inde- tigios de ocupación humana, que existen en
+pendiente si son o no conocidos. En efecto, de un contexto arqueológico, es decir, que no es-
+acuerdo al artículo 21° de la Ley N° 17.288, por tán siendo utilizados por una sociedad viva o
+“el solo ministerio de la ley, son Monumentos Ar- en funcionamiento, con el fin por el cual fueron
+queológicos de propiedad del Estado los lugares, creado. Por su parte, las piezas y sitios paleon-
+ruinas, yacimientos y piezas antropo-arqueoló- tológicos son vestigios de seres orgánicos que
+gicas que existan sobre o bajo la superficie del se encuentran en estado fósil, es decir, petri-
+territorio nacional”. Además, el mismo artículo ficado, lo que incluye las huellas petrificadas
+señala que para “los efectos de la presente ley dejadas por seres vivos (CMN, 2003). Su con-
+quedan comprendidas también las piezas pa- servación es prioritaria por aportar informa-
+leontológicas y los lugares donde se hallaren”. ción relevante para el conocimiento acerca de
+la historia de la vida y la Geología del país (y
+La definición de Monumento Arqueológico debe otras regiones).
+ser complementada con lo señalado en el artícu-
+lo 1° de la Ley N° 17.288 que, como ya se men- Los Monumentos Arqueológicos no requieren
+cionó, incluye los enterratorios o cementerios u declaración expresa de órgano alguno, sino que
+otros restos de los aborígenes, las piezas u ob- tienen el carácter de tal por el sólo ministerio de
+jetos antropo-arqueológicos y paleontológicos, la ley. Además, por el sólo ministerio de la ley
+que existan bajo o sobre la superficie del terri- son propiedad del Estado. Por lo tanto, el regis-
+torio nacional o en la plataforma submarina de tro de los sitios arqueológicos y paleontológicos
+sus aguas jurisdiccionales y cuya conservación conocidos en el territorio nacional es dinámico y
+interesa a la historia, al arte o a la ciencia. En en ningún caso puede ser entendido como un in-
+este contexto, es posible afirmar que los Monu- ventario final de todos ellos. Por el contrario, el
+mentos Arqueológicos pueden ser considerados conocimiento de éstos depende del estado de la
+como bienes muebles o inmuebles. investigación existente, por lo que la existencia
+de un registro acabado no sustituye las inspec-
+ciones arqueológicas en las áreas de influencia
+de los proyectos, en las cuales se podrían en-
+contrar nuevos sitios, no conocidos ni descritos
+en la literatura.
+5.3 Zonas Típicas o Pintorescas
+De acuerdo con el artículo 29° de la Ley N° Las zonas declaradas típicas o pintorescas co-
+17.288, para “el efecto de mantener el carác- rresponden a zonas de protección, referidas al
+ter ambiental y propio de ciertas poblaciones o conjunto de inmuebles urbanos o rurales, de va-
+lugares donde existieren ruinas arqueológicas, lor urbanístico, paisajístico, cultural o ambien-
+o ruinas y edificios declarados Monumentos His- tal, y que constituyen fuente de tradiciones y
+tóricos, el Consejo de Monumentos Nacionales costumbres. Muchas corresponden al entorno
+podrá solicitar se declare de interés público la de un Monumento Histórico. Pueden ser un gru-
+protección y conservación del aspecto típico y po de construcciones, parques, lugares agres-
+pintoresco de dichas poblaciones o lugares o de tes, entre otros (CMN, 2003).
+determinadas zonas de ellas”, declaración que
+se hará por medio de decreto.
+17
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+6 CARACTERIZACION Y LEVANTAMIENTO DE
+INFORMACIÓN DEL ÁREA DE INFLUENCIA
+La caracterización y levantamiento de informa- mientos y metodologías necesarios para descri-
+ción del área de influencia, junto con la des- bir, caracterizar y analizar la información sobre
+cripción del proyecto o actividad, permiten una Monumentos Nacionales, la que debe considerar
+adecuada identificación y estimación de los im- todos los monumentos nacionales presentes en
+pactos, una evaluación predictiva eficiente de el área de influencia, así como su localización. A
+los mismos y una adecuada forma de abordar- continuación se presenta la información mínima
+los. Además, es necesario destacar que debe que se debe presentar.
+estar debidamente justificado el uso de procedi-
+6.1 Monumentos Históricos
+En el área de influencia del proyecto o activi- Histórico: evaluación de la relación espacial del
+dad se debe verificar la ausencia o presencia de proyecto con el entorno en el cual se inserta.
+Monumentos Históricos. En el caso de compro-
+barse la ausencia de éstos, se debe señalar ex- 6. Responsable a cargo del análisis: nombre y
+presamente; de lo contrario, se debe presentar formación profesional.
+la siguiente información para cada uno de ellos:
+7. Plano con la ubicación de los Monumentos
+1. Nombre del o los Monumentos Históricos. Históricos existentes y las obras, partes y accio-
+nes del proyecto (visualización general). En el
+2. Localización (comuna, localidad, provincia y caso de que las obras, partes o acciones estén
+región). próximas a los Monumentos Históricos, se debe-
+rá presentar uno o más planos con la relación de
+3. Disposición legal (Decreto de declaración), ubicación en detalle entre ambos a escala 1:100
+con su respectivo número y fecha. (visualización en detalle).
+4. Características y/o valores o atributos por los 8. En caso de que las obras, partes y acciones
+que fue declarado6. del Proyecto impliquen excavaciones próximas a
+Monumentos Históricos, y que pudiesen afectar
+5. Registro fotográfico actualizado y planimétri- la estabilidad del o los inmuebles, se deberá in-
+co (principalmente elevaciones) del Monumento cluir un informe estructural avalado por un pro-
+fesional competente.
+6.2 Monumentos Arqueológicos
+Dado que los Monumentos Arqueológicos -que de la superficie de una localidad con el fin de
+existan bajo o sobre la superficie del territorio descubrir uno o más sitios arqueológicos, antro-
+nacional- tienen tal calidad por el solo ministe- pológicos o paleontológicos que puedan incluir
+rio de la Ley N° 17.288, es que se solicita que pozos de sondeo y/o recolecciones de material
+el proyecto o actividad que se somete al SEIA de superficie”.
+incorpore una prospección de la zona donde se
+pretende emplazar. Sin perjuicio de lo anterior, Si bien los Monumentos Arqueológicos incluyen
+se hace presente que existen excepciones, como el patrimonio arqueológico y el paleontológico,
+el caso de proyectos o actividades que dentro de se reconoce que son de naturaleza y caracterís-
+sus obras, partes y acciones no generan inter- ticas deferentes y, por lo tanto, su estudio debe
+vención de la superficie o el subsuelo. basarse en técnicas y metodologías propias.
+De acuerdo a lo establecido en el artículo 2, Dado lo anterior, se debe verificar en el área
+letra a), del Decreto N° 484 de 1990, del Mi- de influencia del proyecto o actividad la ausen-
+nisterio de Educación, Reglamento de la Ley N° cia o presencia de Monumentos Arqueológicos,
+17.288, sobre excavaciones y/o prospecciones presentándose en el EIA o DIA informes especí-
+arqueológicas, antropológicas y paleontológi- ficos, informe arqueológico y/o informe paleon-
+cas, la prospección se entiende como “el estudio tológico, según corresponda:
+18
+6 Información pública y disponible en el sitio web del CMN, en
+www.monumentos.cl.INFORME ARQUEOLÓGICO ◦ Las transectas recorridas durante la pros-
+pección deberán ser rastreadas con GPS
+Este informe debe contener al menos la siguien- y adjuntadas, idealmente en formato di-
+te información: gital KMZ, con el informe de prospección
+arqueológico.
+1. Superficie prospectada y su ubicación.
+2.2. Prospección con intervención (pozos de
+Se debe incluir un plano general para identificar sondeo y/o barrenos):
+las obras, partes y acciones del proyecto, el área
+de prospección arqueológica y el emplazamien- En caso de corresponder una prospección con
+to de los sitios arqueológicos, con la finalidad de intervención, ésta debe ser autorizada por el
+observar la afectación o no de los mencionados CMN, según la legislación vigente, y se debe
+sitios (visualización general). agregar a lo establecido para la prospección sin
+intervención, lo siguiente:
+Además, se debe presentar uno o más planos
+con la relación de ubicación en detalle de las ● Autorización de excavación11 otorgada
+obras, partes y acciones del proyecto y el em- por el CMN12 para la ejecución de pozos
+plazamiento de los sitios arqueológicos, los cua- de sondeo y/o barrenos.
+les deben ser identificados usando una escala
+1:10.000 (visualización de detalle). ● Descripción de la metodología utilizada
+en la caracterización:
+Se hace presente que el plano general y el o los
+planos de detalle deben estar firmados por el ◦ Pozos de sondeo: número, dimensión,
+arqueólogo responsable de la prospección. espaciamiento, levantamiento topográfi-
+co con coordenadas y método de excava-
+2. Métodos y técnicas de prospección utilizadas7. ción (tipo de niveles o estratos utilizados,
+sistema de harneo, entre otros).
+En caso de existir sitios arqueológicos que serán
+intervenidos total o parcialmente por las obras, ◦ Barrenos: número, dimensión, espacia-
+partes y/o acciones del proyecto, se tiene que miento, levantamiento topográfico con
+incorporar una prospección con intervención con coordenadas y método de barrenado
+el objetivo de caracterizar estratigráficamente (tipo de niveles o estratos utilizados, sis-
+el sitio y establecer la definición de su polígono. tema de harneo, entre otros).
+Asimismo, en caso de incertidumbre respecto a
+la delimitación de los sitios arqueológicos cer-
+canos al proyecto, y en base a la información
+superficial, se debe realizar una prospección con 7 Se debe indicar la intensidad de la prospección para cada
+intervención para determinar la extensión efec- área: cantidad de tramos y porcentaje del terreno recorrido
+respecto de la superficie total; y detallar el tiempo utilizado en
+tiva de dichos sitios.
+la prospección, tipo de subdivisión u ordenamiento utilizado, y
+las variables que afectan la detección de sitios arqueológicos,
+2.1. Prospección sin intervención o inspección entre otros.
+visual8:
+8 Se refiere al recorrido pedestre, sistemático y metodológi-
+camente planificado, que tiene como finalidad proveer una
+En este caso, se debe presentar lo siguiente: descripción de los recursos arqueológicos a través de la ob-
+servación directa por parte de un arqueólogo o licenciado en
+arqueología.
+● Número de campañas y fechas.
+9 Of. N° 771 de 2009, del Ministerio de Bienes Nacionales,
+● Descripción de las técnicas de prospección: adopción de sistema de referencia geodésico único.
+10 Los husos correspondientes son: 18 y 19 en territorio con-
+◦ Variables que afectan la detección de si-
+tinental; 12, 13 y 17 en el territorio insular, Islas de Pascua,
+tios: accesibilidad, visibilidad, obstrusivi- Sala y Gómez y Juan Fernández, respectivamente.
+dad, geomorfología.
+11 De acuerdo a lo establecido en el artículo 2, letra b), del De-
+creto N° 484 de 1990, del Ministerio de Educación, Reglamen-
+◦ Cobertura e intensidad de la prospección: to de la Ley N° 17.288, sobre excavaciones y/o prospecciones
+superficie (m2) y georreferenciación del arqueológicas, antropológicas y paleontológicas, la excava-
+polígono comprendido y transectas reco- ción se entenderá como toda alteración o intervención de un
+sitio arqueológico, antropológico o paleontológico, incluyendo
+rridas. Se puede utilizar indistintamente
+recolecciones de superficie, pozos de sondeo, excavaciones,
+tanto el sistema de coordenadas UTM tratamiento de estructuras, trabajos de conservación, restau-
+como geográficas, siendo requisito la uti- ración y, en general, cualquier manejo que altere un sitio ar-
+lización del Datum SIRGAS9 o WGS84 y queológico, antropológico o paleontológico.
+en el caso de las coordenadas UTM la uti- 12 Formulario de solicitud disponible en www.monumentos.cl,
+lización de los husos correspondientes al Área patrimonio arqueológico.
+19
+territorio nacional10.
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+3. Resultados de la caracterización arqueológica. d) Registro fotográfico de todos los pozos de
+sondeos excavados:
+Se deben entregar los resultados del trabajo
+arqueológico generado en terreno y oficina. Al ● Vista panorámica.
+respecto, se debe construir una “ficha por cada
+sitio arqueológico identificado”, según se pre- ● Vista de detalle (rasgo, materiales diagnósticos).
+senta a continuación:
+e) Plano especifico del sitio arqueológico, que
+3.1. Sitio arqueológico identificado: incluya el polígono y la ubicación de los pozos
+de sondeo y/o barrenos, estructuras y rasgos,
+a) Nombre. según corresponda.
+b) Localización (comuna, provincia y región). 3.2. Revisión de antecedentes14:
+c) Características: ● Recopilación de bibliografía especializada
+y actualizada para obtener antecedentes
+● Superficie (expresado en m2). arqueológicos prehispánicos e históricos
+del área de estudio15 (revistas científi-
+● Funcionalidad13: administrativo, basural, cas, actas de congresos, libros, catastro
+defensivo, doméstico/habitacional, fune- y otras publicaciones).
+rario, manifestación cultural compleja,
+productivo, ritual/ceremonial, vialidad/ ● EIA o DIA relacionados.
+transporte histórico prehispánico, entre
+otras, indeterminado, sin información, ● Cartografía.
+observaciones de la funcionalidad.
+● Sitios arqueológicos previamente carac-
+● Descripción general del emplazamiento terizados. Se deben incorporar los infor-
+del sitio. mes arqueológicos existentes.
+● Período general: prehispánico, histórico, sub- ● Colección: se refiere a colección(es) ge-
+actual, multicomponente, no determinado. nerada(s) por intervenciones previas en
+el sitio arqueológico. Se debe indicar la
+● Período específico. existencia o no de colecciones, o bien, in-
+dicar si no hay información al respecto.
+● Adscripción cultural. De existir, se debe indicar la entidad de-
+positaria y la descripción de la colección.
+● Fechas.
+4. Conformación del equipo de trabajo.
+● Descripción de materialidad del sitio:
+● Responsable a cargo:
+◦ Evidencias muebles (líticos, cerámicos,
+entre otros). ◦ Nombre.
+◦ Evidencias inmuebles (estructuras, ras- ◦ Formación profesional.
+gos, entre otros). ◦ Adjuntar CV.
+● Potencial estratigráfico: ● Equipo participante en terreno:
+◦ Superficial. ◦ Nombres.
+◦ Subsuperficial. ◦ Formaciones profesionales.
+◦ Mixto. ◦ Adjuntar el CV de cada uno.
+◦ Otras observaciones.
+● Estado de conservación: 13 Revisar funcionalidad o tipología funcional disponible en el
+sitio web del CMN, www.monumentos.cl, Área patrimonio ar-
+◦ Alteraciones antrópicas. queológico, SITUS.
+◦ Alteraciones naturales.
+14 En caso de no existir para el área del proyecto, indicar cual
+◦ Sin alteración. fue la bibliografía revisada.
+◦ Otras observaciones.
+15 Dicha revisión deberá ser cotejada con las características de
+emplazamiento de las obras, partes o acciones del proyecto,
+● Observaciones (descripción del sitio). con el fin de evaluar la posibilidad de existencia de sitios ar-
+queológicos no detectables en superficie.
+20INFORME PALEONTOLÓGICO16 4. Resultados de la descripción por unidad geoló-
+gica, indicando claramente:
+El informe paleontológico deberá incluir siempre
+el detalle pormenorizado del potencial fosilífero ● Nombre de la unidad.
+del área del proyecto. En caso de consignarse
+áreas de potencial fosilífero (susceptible de con- ● Edad conocida o estimada.
+tener materiales fosilíferos) y/o áreas fosilíferas,
+se deberá incluir una prospección paleontológica ● Origen: continental, volcánico, marino,
+en terreno de cada una de ellas. lacustre, entre otros.
+a) Potencial fosilífero del área del proyecto17: ● Litología de los estratos: nivel de com-
+pactación, tipo de roca y estratificación,
+1. Para evaluar la probabilidad de que exista una entre otras.
+unidad litoestratigráfica que contenga o no fósi-
+les, la que se efectúa sobre la base de los ante- ● Potencial fosilífero de la unidad: identificar
+cedentes disponibles en la literatura geológica y la clasificación de la unidad (con certeza
+paleontológica del país, así como de sus carate- o alta probabilidad de contener fósiles, o
+rísticas litológicas. Dicho potencial se indicará a con baja o nula probabilidad de contener-
+través de las siguientes alternativas o categorías: los). Se deberá justificar y/o fundamentar
+en base a la revisión bibliográfica y la(s)
+● Con certeza o alta probabilidad de con- carta(s) geológica(s) del área.
+tener fósiles. La unidad geológica tiene
+material paleontológico en alguno o to- b) Prospección paleontológica en terreno19.
+dos sus niveles o capas, o es muy factible
+que los posea, considerando su génesis Se debe presentar cuando el potencial fosilífero
+sedimentaria. Dicha unidad puede estar del área del proyecto indique que existen unida-
+integrada por rocas piroclásticas, donde des geológicas identificadas con certeza o alta
+podrían encontrarse fósiles. probabilidad de contener fósiles o fosilíferas.
+● Con baja o nula probabilidad de conte- La prospección paleontológica debe enfocarse
+ner fósiles. La unidad geológica está in- en el estudio de las citadas unidades geológi-
+tegrada por rocas ígneas efusivas o me- cas en terreno. Siempre se requiere una pros-
+tamórficas que podrían contener fósiles, pección sin intervención en las citadas unidades
+o la componen rocas ígneas intrusivas o geológicas. En el caso que las obras, partes y/o
+metamórficas de alto grado, donde se ex- acciones del proyecto intervengan dichas uni-
+cluye dicha posibilidad. dades geológicas se requiere una prospección
+con intervención.
+2. Realizar una revisión bibliográfica18.
+Considerar los antecedentes geológicos y pa-
+leontológicos actualizados de la región, provin-
+cia y/o comuna, según el emplazamiento del 16 Según Sesión Plenaria de Agosto de 2012 establecida en el
+proyecto. El esfuerzo de búsqueda de dichos CMN, los informes relativos a materiales y yacimientos pa-
+leontológicos deberán ser elaborados por profesionales con tí-
+antecedentes deberá concentrarse en el área
+tulo o licenciatura, preferentemente del ámbito de las ciencias
+de localización del proyecto con la finalidad de biológicas y/o geológicas, con especialización teórica y prác-
+evaluar la existencia de yacimientos paleontoló- tica comprobable en paleontología. Asimismo, se entenderá
+gicos, detectables o no en superficie. por especialización teórica, haber aprobado cursos universi-
+tarios en materias relacionadas con taxonomía (por ejemplo:
+zoología, botánica, paleontología sistemática), paleobiología
+3. Incluir un plano con la superposición de las (por ejemplo: evolución, biogeografía, ecología) geología y
+obras, partes y/o acciones del proyecto con res- estratigrafía; o tener publicaciones científicas donde se abor-
+den tales temáticas (al menos dos, como primer o segundo
+pecto a la(s) carta(s) geológica(s) del área (vi-
+autor) en revistas con Comité Editorial, y se entenderá por
+sualización general) y un conjunto de planos a especialización práctica, la experiencia en trabajos de terreno,
+escala 1:10.000 (visualización en detalle). donde el rescate de fósiles se haya efectuado sobre la base de
+antecedentes estratigráficos.
+Lo anterior, con el objetivo de realizar un aná-
+17 Este informe puede ser efectuado por un geólogo o un paleontólogo.
+lisis de las unidades geológicas y su potencial
+contenido fosilífero. Las cartas geológicas utili- 18 Incluir antecedentes de revistas científicas, actas de congre-
+sos, libros, catastros, tesis, otras publicaciones y proyectos
+zadas deberán corresponder a la de mayor de-
+que fueron aprobados en el SEIA, entre otros.
+talle existente.
+21
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+La prospección paleontológica en terreno debe ◦ Calicatas:
+incluir, al menos lo siguiente:
+- Número.
+1. Superficie prospectada y su delimitación. - Dimensión (área y profundidad).
+- Ubicación y georreferenciación.
+2. Plano a escala 1:10.000 con la superposición - Análisis.
+de las obras, partes y/o acciones del proyecto,
+la(s) carta(s) geológica(s) del área, el polígono Se puede utilizar indistintamente tanto el sis-
+del área prospectada, sondajes geológicos y/o tema de coordenadas UTM como geográficas,
+calicatas, si corresponde, y los puntos de reco- siendo requisito la utilización del Datum SIR-
+lección hallazgos paleontológicos. En el caso que GAS21 o WGS84 y en el caso de las coordenadas
+en algún sondaje(s) geológico(s) y/o calicata(s) UTM la utilización de los husos correspondientes
+se hubiera detectado algún material paleontoló- al territorio nacional22.
+gico, se deberá indicar con simbología diferente.
+Dicho plano deberá estar firmado por el paleon- 4. Identificación de los hallazgos paleontológicos.
+tólogo que realizó la prospección.
+Para cada uno se debe indicar:
+3. Métodos y técnicas de prospección utilizadas.
+● Nombre (identificación de terreno).
+3.1. Prospección sin intervención o inspección
+visual: ● Tipo de hallazgo: in situ o rodados.
+● Número de campañas y fechas. ● Localización (comuna, provincia y región).
+● Descripción de las técnicas de prospección: ● Georreferenciación: polígono o punto, se-
+gún corresponda a yacimiento fosilífero o
+◦ Variables que afectan la detección de sitios: hallazgo aislado. Se puede utilizar indis-
+accesibilidad, visibilidad, geomorfología. tintamente tanto el sistema de coordena-
+◦ Cobertura e intensidad de la prospección: das UTM como geográficas, siendo requi-
+señalar la unidad de prospección (polígo- sito la utilización del Datum SIRGAS23 o
+no y puntos de observación), superficie WGS84 y en el caso de las coordenadas
+(m2) y georreferenciación. UTM la utilización de los husos correspon-
+dientes al territorio nacional24.
+3.2. Prospección con intervención (recolección
+muestras, sondajes geológicos y/o calicatas): ● Extensión del afloramiento de la unidad
+estratigráfica fosilífera.
+● Autorización otorgada por el CMN20 para
+recolección muestras, sondajes geológi- ● Edad geológica.
+cos y/o calicatas.
+● Tipo de fósiles:
+● Número de campañas y fechas.
+◦ Microfósiles (excepto palinomorfos).
+● Descripción de las técnicas de prospección: ◦ Plantas (macrofósiles).
+◦ Palinomorfos (polen y esporas).
+◦ Recolección de muestras: ◦ Invertebrados (restos corporales).
+◦ Huellas de invertebrados.
+- Número de muestras colectadas. ◦ Vertebrados (restos corporales).
+- Ubicación y georreferenciación. ◦ Huellas de vertebrados.
+- Identificación taxonómica preliminar. ◦ Otro tipo de resto o estructura biogénica.
+◦ Sondajes geológicos, en caso de estar 19Este informe debe ser elaborado por un paleontólogo.
+disponibles por el proyecto:
+20 Solicitud disponible en www.monumentos.cl, patrimonio ar-
+queológico, “formulario solicitud”, específico para el compo-
+- Número de testigos geológicos. nente paleontológico.
+- Dimensión de los testigos (diámetro,
+longitud y profundidad). 21 Of. N° 771 de 2009, del Ministerio de Bienes Nacionales,
+adopción de sistema de referencia geodésico único.
+- Ubicación/georreferenciación.
+- Análisis de litología de los testigos: in- 22 Los husos correspondientes son: 18 y 19 en territorio con-
+dicar si presentan o no material fosilífe- tinental; 12, 13 y 17 en el territorio insular, Islas de Pascua,
+Sala y Gómez y Juan Fernández, respectivamente.
+ro, e identificar y describir el material.
+Se deberá adjuntar un perfil geológico 23 Of. N° 771 de 2009, del Ministerio de Bienes Nacionales,
+para graficar esta información. adopción de sistema de referencia geodésico único.
+22
+24 Los husos correspondientes son: 18 y 19 en territorio con-
+tinental; 12, 13 y 17 en el territorio insular, Islas de Pascua,
+Sala y Gómez y Juan Fernández, respectivamente.● Grado de preservación del afloramiento y 6. Conformación de el equipo de trabajo
+de los fósiles contenidos.
+● Responsable a cargo:
+● Singularidad o importancia científica del
+hallazgo. ◦ Nombre
+◦ Formación profesional
+● Registro fotográfico in situ y en labora- ◦ Adjuntar CV
+torio (si corresponde), con escala gráfica
+incorporada. ● Equipo participante en terreno:
+● Observaciones. ◦ Nombres
+◦ Formaciones profesionales
+5. Registro fotográfico. ◦ Adjuntar el CV de cada uno
+Se debe entregar el registro de todos los yaci-
+mientos paleontológicos y escala de tamaño.
+6.3 Zonas Típicas o Pintorescas
+En el área de influencia proyecto o actividad se 8. Responsable a cargo (nombre y formación
+deberá verificar si hay presencia de Zonas Típi- profesional).
+cas o Pintorescas. En el caso de comprobarse
+la ausencia de éstas, se deberá señalar expre- 9. Plano de ubicación de la Zona Típica o Pinto-
+samente, de lo contrario, se deberá presentar resca con la superposición de las obras, partes
+la siguiente información para cada una de las y acciones del proyecto (visualización general).
+citadas zonas: En caso que las obras, partes y acciones estén
+próximas a la Zona Típica o Pintoresca se de-
+1. Nombre de la o las Zonas Típicas o Pintorescas. berá presentar un plano con la relación de ubi-
+cación en detalle entre ambos (visualización en
+2. Localización (comuna, provincia y región). detalle), según corresponda.
+3. Ubicación/dirección. 10. En caso que las obras, partes y/o acciones
+del proyecto impliquen excavaciones próximas a
+4. Disposición legal (Decreto), con su respectivo inmuebles protegidos por la Ley Nº 17.288, que
+número y fecha. pudiesen afectar la estabilidad de éstos, se de-
+berá incluir un informe estructural avalado por
+5. Características y/o valores de su protección, un profesional competente.
+según decreto25.
+6. Superficie protegida, adjuntar plano de lími-
+tes, en caso de existir.
+7. Registro fotográfico actualizado y planimé-
+trico (principalmente elevaciones) de la Zona
+Típica o Pintoresca: evaluación de la relación
+espacial del proyecto con el entorno en el cual
+se inserta.
+25 El objeto principal de protección es el valor por el cual se le
+ha dado al área la categoría de protección. Este componente
+no debe sufrir alteraciones. Las intervenciones sobre los com-
+ponentes asociados deben ser mínimas.
+23
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+7 EVALUACIÓN DE LA ALTERACIÓN DE
+MONUMENTOS NACIONALES
+Cualquier proyecto o actividad sometido al SEIA traslado, destrucción, entre otras, que afecten
+que genere o presente alteración de Monumen- a Monumentos Arqueológicos -incluidos los ha-
+tos pertenecientes al patrimonio cultural debe llazgos arqueológicos y paleontológicos- en con-
+presentar un EIA con medidas adecuadas para sideración a la singularidad de los mismos.
+hacerse cargo de dicha alteración.
+En particular, respecto a las piezas paleonto-
+Para evaluar cuándo un proyecto o actividad lógicas, cabe señalar que, a pesar de tratarse
+genera o presenta alteración de un Monumen- de restos únicos e irrepetibles (desde el punto
+to Histórico o Zona Típica o Pintoresca se de vista de su génesis), no puede considerarse
+debe considerar la magnitud en que se remue- que todos tienen un valor patrimonial impor-
+va, destruya, excave, traslade, deteriore, inter- tante, ya que ello dependerá precisamente de
+venga o se modifique en forma permanente su singularidad.
+dicho monumento o zona. Al respecto, se deben
+analizar actividades tales como construcción, Si sobre el análisis precedente se concluya que
+excavación, remoción, destrucción, transforma- el proyecto no genera o presenta alteración de
+ción, reparación, restauración, entre otras, que Monumentos Nacionales pertenecientes al pa-
+afecten alguno de los valores por los cuales fue trimonio cultural, el Titular deberá señalarlo y
+declarado Monumento o Zona Típica o Pinto- justificarlo fundadamente.
+resca, pudiendo ser éstos de carácter explícito
+o implícito. En caso de que efectivamente un monumento
+sea alterado, se deberá presentar un plan con
+En el caso de la evaluación de la alteración de un las medidas de mitigación, reparación o com-
+Monumento Arqueológico se debe considerar pensación adecuadas, según corresponda, así
+igualmente la magnitud en que se remueva, como también se deberá dar cumplimiento a la
+destruya, excave, traslade, deteriore, interven- legislación vigente. De existir un monumento
+ga o se modifique en forma permanente dicho que no será alterado, se deben proponer las me-
+monumento. En este caso, se deben analizar didas de manejo ambiental26 para su protección,
+actividades tales como remoción, excavación, con la finalidad de asegurar su no alteración.
+8
+PERMISOS AMBIENTALES SECTORIALES
+Todos los permisos de carácter ambiental que, Los PAS asociados a los Monumentos Nacionales
+de acuerdo con la legislación vigente deban o pertenecientes al patrimonio cultural, que son de
+puedan emitir los órganos de la administración competencia del CMN, se enuncian a continuación:
+del Estado respecto de proyectos o actividades
+sometidos al SEIA deben ser solicitados y otor- ● Permiso para realizar trabajos de conserva-
+gados a través de dicho sistema. ción, reparación o restauración de Monu-
+mentos Históricos; para remover objetos
+El detalle de los contenidos técnicos y formales que formen parte o pertenezcan a un Mo-
+para acreditar el cumplimiento de los permisos numento Histórico; para destruir, transfor-
+y los requisitos para su otorgamiento están con- mar o reparar un Monumento Histórico, o
+tenidos en Guías Trámite del SEA27 específicas hacer construcciones en sus alrededores;
+para cada uno de los PAS, por lo que no forma o para excavar o edificar si el Monumento
+parte del alcance de esta Guía. Histórico fuere un lugar o sitio eriazo.
+Sin perjuicio de lo anterior, a continuación se
+26 Medidas de manejo ambiental: son todas aquellas medidas
+presenta de manera genérica el procedimiento
+asociadas a la gestión ambiental del proyecto, que no cons-
+asociado al otorgamiento de los PAS estableci- tituyen medidas de mitigación, reparación o compensación a
+dos en el Título VII del Reglamento del SEIA. que se refiere el Título VI del RSEIA.
+27 A la fecha de publicación de la presente Guía se encontraban
+en elaboración por parte del SEA Guías Trámite para cada
+24 uno de los PAS contenidos en el Título VII del Reglamento
+del SEIA.● Permiso para hacer excavaciones de tipo ar- Respecto del permiso para la intervención de
+queológico, antropológico y paleontológico. un cementerio histórico indígena, el CMN debe
+contar con informe previo de la Corporación Na-
+● Permiso para hacer construcciones nuevas cional de Desarrollo Indígena28 (CONADI) para
+en una zona declarada típica o pinto- su pronunciamiento.
+resca, o para ejecutar obras de reconstruc-
+ción o de mera conservación. Es importante señalar que aquellas activida-
+des o acciones efectuadas en forma previa al
+Corresponde al titular del proyecto o actividad ingreso del proyecto al SEIA, con ocasión de
+analizar la aplicabilidad de los PAS establecidos la confección de la línea de base o para el le-
+en el Título VII del Reglamento del SEIA y, en vantamiento de los antecedentes necesarios
+caso de aplicar uno o más de ellos, deberá pre- para justificar la inexistencia de efectos, ca-
+sentar los contenidos técnicos y formales para racterísticas o circunstancias del artículo 11
+acreditar su cumplimiento, según lo estableci- de la Ley 19.300, deben ser autorizadas, si
+do en el citado Reglamento y las Guías Trámite corresponde, sectorialmente. En este caso, no
+del SEA. se requiere solicitar el PAS en el proceso de eva-
+luación ambiental, por cuanto son actividades
+Los permisos indicados corresponden a permi- o acciones ya ejecutadas que no forman par-
+sos ambientales sectoriales mixtos, es decir, te del proyecto o actividad sometido al SEIA.
+que tienen contenidos ambientales y no am- Por ejemplo, se podría requerir de autorizacio-
+bientales, y por ello la Resolución de Califica- nes sectoriales para actividades como mecánica
+ción Ambiental (RCA) favorable certificará que de suelos, diagnóstico estructural de edificios
+se da cumplimiento a los requisitos ambientales declarados monumentos, pozos de sondeo ar-
+de dichos permisos. El CMN no podrá denegar queológico, toma de muestras paleontológicas,
+los permisos en razón de dichos requisitos, ni entre otras. Cada autorización sectorial debe ser
+imponer nuevas condiciones o exigencias de ca- tramitada ante el CMN por el titular del proyecto
+rácter ambiental que no sean las establecidas o actividad, y presentar los requisitos estable-
+en la RCA. cidos en la Ley N° 17.288 y el Decreto N° 484
+de 1990, utilizando formularios disponibles en el
+Si la RCA es desfavorable, el CMN denegará los sitio web www.monumentos.cl.
+correspondientes permisos en razón de los re-
+quisitos ambientales, aunque se satisfagan los
+demás requisitos.
+El titular podrá presentar los antecedentes no
+ambientales ante el CMN de manera previa a la
+notificación de la RCA, indicando el proyecto o
+actividad que se encuentra en evaluación am-
+biental. Con todo, el permiso ambiental sectorial
+podrá otorgarse sólo una vez que el titular exhi-
+ba la RCA favorable.
+28 La Ley N° 19.253 establece en su artículo 29, letra c), que “se
+requerirá informe previo de la CONADI para la excavación de ce-
+menterios históricos indígenas con fines científicos, se ceñirán al
+procedimiento establecido en la Ley N° 17.288 y su Reglamento,
+previo consentimiento de la comunidad involucrada”.
+25
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+REFERENCIAS
+26CMN (2003). Gobierno de Chile, Ministerio de Educación, Consejo de Monumentos Nacionales. Cua-
+dernos del Consejo de Monumentos Nacionales: Nómina de Monumentos Nacionales declarados entre
+1925 y 2002. Segunda serie Nº 56, 1ª edición. ISBN Nº 956-7953-09-0. Santiago, Chile.
+CONAMA (2008). Análisis del literal f) del artículo 11 de la Ley N° 19.300. Minuta preparada para el
+Seminario Fortalecimiento de Capacidades Institucionales en el SEIA, Noviembre 2008.
+UNESCO (2012). Comunicación e información. (Santiago, Chile). [Online]. [Citado el 8 de octubre
+de 2012]. Disponible en :<http://www.unesco.org/new/es/communication-and-information/ac-
+cess-to-knowledge/preservation-of-documentary-heritage/digital-heritage/concept-of-digital-herita-
+ge/>.
+27
+ARTÍCULO 11 DE LA LEY Nº19.300 LETRA F)SERVICIO DE EVALUACIÓN AMBIENTAL
+Esta Guía se basa en la experiencia y conocimiento adquiridos desde los inicios del Sistema de Evalua-
+ción Impacto Ambiental por funcionarios de la Comisión Nacional del Medio Ambiente como del Ser-
+vicio de Evaluación Ambiental y el Consejo de Monumentos Nacionales, lo que ha quedado plasmado
+en minutas internas, presentaciones en seminarios y otros.
+28
+
+Palabras con errores ortográficos:
+artística,
+cmn,
+paleon-tólogo
+(macrofósiles).
+supremo,
+●observaciones
+d)
+polígono.
+patrimoniales
+génesis),
+continuación:
+ciencia.
+revisada.
+parte,
+uti-lización
+12,
+fotográfico.
+proyectos,
+adecuadas,
+aplicables,
+(sea).en
+19informe
+material.
+documentos,
+significativos.
+●colección:
+humana.
+detalle).se
+general).
+paleontólogo.
+pro-yecto,
+esta-blece
+ambiental223.
+eriazo.
+gru-po
+respectivamente.la
+acti-vidad
+ras-gos,
+“monumentos
+terreno,
+guía,
+17:1.
+◦sin
+comuna,
+humanos;d)
+proyecto:
+bien,
+intrusivas
+contexto,
+esporas).
+autorizacio-nes
+natural3.2
+fotografías,
+punto,
+barrenos.
+sectorialmente.
+observaciones.
+ca-rácter
+decreto,
+metodológi-camente
+incorporada.
+comu-nes
+ambiental;c)
+fosilífe-ro,
+califica-ción
+antro-pológicos
+diagnósticos).e)
+teórica,
+mitos,
+barrenos):en
+pa-trimonio
+otros.los
+litología
+pintorescas5.2
+congre
+riesgo;
+localización.
+fosilífero
+alteraciones.
+protec-ción
+consejo”.los
+antropo-arqueoló-gicas
+17monumentos
+calicatas,
+paleontológicos,
+du-rante
+insular,
+solicitud”,
+efusivas
+1°
+grabaciones,
+general).además,
+patrimonio.artículo
+debe-rá
+ge-neral,
+men-cionó,
+in-dicar
+ellas”,
+efec-tiva
+-que
+natu-rales,
+colección.4.
+fosilíferas.la
+educación,
+sondaje(s)
+barrenos,
+fósil,
+ellos.
+omni-comprensivo
+nacional-
+posibilidad.2.
+eia,
+tamaño.6.
+petri-ficado,
+●autorización
+◦vertebrados
+parques,
+sondeo:
+pa-leontológicas
+●tipo
+13:
+of.
+protegidas,
+indis-tintamente
+siguiente:
+reparación,
+declaración),
+actividades,
+6.5.
+re-quisitos
+metodológicas
+si-tios:
+estable-cidos
+956-7953-09-0.
+interven-ga
+estructuras,
+6),
+pre-senta
+deteriore,
+congresos,
+paleontológi-cas,
+respecto,
+intervención.4.
+●
+28°
+proyecto,
+requisi-tos,
+observación),
+ellos,
+testigos:
+pasado,
+estratigráficos.
+instituciones,
+de-positaria
+se-gún
+-análisis
+todo,
+arqueología,
+super-ficie
+efec-tuar
+existir.7.
+reconstruc-ción
+militar,
+geológicas.
+cv
+chile).
+●responsable
+◦palinomorfos
+religión,
+guía.
+●litología
+eva-luación
+y/o
+conservación,
+forma-ción
+relacionados.
+destrucción,
+na-cional
+fuentes,
+◦plantas
+dos,
+am-bientales,
+◦sondajes
+unesco:
+adjuntadas,
+5),
+mixtos,
+2008.unesco
+colegia-da
+éstas,
+antro-po-arqueológicos,
+cumplimiento,
+excepciones,
+pueblos,
+rurales,
+transforma-ción,
+arqueológicoeste
+17.288.a
+terreno).
+alteración.
+otorgarse
+(rca)
+unidad:
+área:
+me-tamórficas
+región).
+apli-cable,
+marco,
+arqueológicos5.3
+sondajes
+caso,
+ante-cedentes
+1990,
+irrepetibles
+con-tenidos
+●grado
+calicatas.
+botánica,
+ar-tículo
+2003).
+luego,
+ritual/ceremonial,
+pro-piedad
+guía.servicio
+pintoresca:
+tradicional,
+(santiago,
+piroclásticas,
+seia.además,
+arqueológico.
+único.
+descri-bir,
+requisitos,
+conservación:
+mo-numento
+creencias,
+◦variables
+(polen
+subsuelo.de
+biogeografía,
+c)
+impacto,
+activi-dad
+anteriores,
+carac-terizados.
+(susceptible
+reglamento,
+con-tinental;
+autorizadas,
+en-cuentra
+consignarse
+guía3.
+vez,
+4).
+●permiso
+realizarán,
+◦nombres.
+-identificación
+per-tinencia,
+geológicas,
+www.monumentos.cl.monumentos
+pre-sencia
+implícito.en
+doméstico/habitacional,
+aso-ciados
+pintorescas6.
+ecología)
+(al
+cultural5.1
+registros)
+profesionales.
+significancia,
+aná-lisis
+ce-menterios
+rseia.
+religiones,
+vigente,
+efectúen
+paisajístico,
+unidad.
+conserva-ción,
+“se
+rca,
+conmemorativo.es
+naciona-les;
+2)
+evolución,
+cultural,
+pública,
+indicar:
+18.575,
+carta(s)
+18.considerar
+certificará
+7).
+superficie.
+último,
+cotejada
+tan-gible
+in-dustriales,
+eia.a
+◦subsuperficial.
+mo-numentos
+●vista
+planimétri-co
+seia.
+●fechas.
+históricos.2.
+alterado,
+(con
+1:10.000
+tecnificación
+traslade,
+poblaciones,
+n°
+gran-des
+que,
+finalmente,
+sectorialesreferencias8101114
+corresponde,
+(descripción
+◦mixto.
+existente,
+●nombre
+artícu-lo
+◦nombres
+nacionalespara
+ausen-cia
+profesional.
+restau
+2objetivo
+análi-sis
+cua-les
+categorías:
+país.artículo
+país;
+ecología,
+remue-va,
+artístico;
+pormenorizado
+(tipo
+estatuas,
+identificar,
+j)
+(decreto
+21informe
+19.300),
+com-petencia
+dimensión,
+oficial,
+pro-pietario,
+per-tenecientes
+evalua-ción
+interna,
+es-tán
+-incluidos
+geológica.
+●equipo
+vertebrados.
+filosóficas,
+ido-neidad
+compo-nente
+paisajístico
+ellos:1.
+uni-dades
+características:
+regis-tro
+●registro
+arqueológicos6.2
+geológica(s)
+9°
+bailes,
+(pas)
+agres-tes,
+pueblo.
+ambiental2.
+rasgos,
+am-biental.
+superficie,
+19.300.la
+histórico:
+volcánico,
+ejemplos:
+ubicación.se
+paleontológico,
+◦huellas
+base,
+(rasgo,
+objeti-vos
+●edad
+detalle).
+espaciamiento,
+terreno.
+históricos.
+paleontológico
+fosilífero.
+p)
+continental,
+-análisis.se
+isbn
+consi-derado
+funcionamiento,
+monumento.
+(visualización
+continuación:3.1.
+es-tablecer
+remueva,
+in-ventario
+influencia.
+●cartografía.
+pas,
+enuncian
+fases,
+existieren
+cv.
+corresponda.10.
+paleonto-lógicas,
+ciencia;
+ritos,
+gas-tronomía,
+práctica,
+cívica,
+permisos.
+terreno19.se
+sentido,
+vigente.
+denegará
+hallazgo:
+terreno:
+existir,
+anali-zar
+his-tóricos,
+sir-gas21
+levantamien-to
+nacionales:
+nacionales.
+27cmn
+específico.
+de-talle
+otros).
+cargo:
+caracterís-ticas
+edificaciones,
+comu-nidad
+sectorial:
+sociocultural
+●georreferenciación:
+cua-dernos
+cultural4.
+◦calicatas:
+amplio,
+científico.el
+(área
+es-tado)
+ambientales,
+correspon-dientes
+-dimensión
+pintorescas.
+●funcionalidad
+productivo,
+supervi-sor
+ar-queológicos,
+ex-presamente;
+profesional).9.
+(diámetro,
+mitigación,
+b),
+información,
+proyecto.
+(revistas
+(conadi)
+superficie”.si
+guía.sin
+duración,
+cemente-rios,
+19.300,
+coordena-das
+planificado,
+bie-nes
+(si
+enterratorios
+residuos;b)
+ciudadana,
+pronunciamiento.en
+8),
+ministe-rio
+existentes.
+ejemplo:
+alrededores;
+ubi-cación
+funcionalidad.
+im-pactos,
+19.300.servicio
+“ejecución
+área,
+hallaren”.la
+geoló-gica,
+lugares,
+renovable,
+carate-rísticas
+cer-canos
+región,
+cosmovisión
+partes,
+humana,
+colección(es)
+a)
+históri-cos,
+legisla
+inspec-ciones
+2012].
+proceso.
+paleontológi-cos
+contraloría
+suelos,
+(cmn,
+●extensión
+sectoriales
+monumen-tos
+identificado”,
+paleontológicos.
+[citado
+superficie.3.
+prospección,
+fiscal,
+conocidos.
+17.288).
+históricos5.2
+ambiental186caracterizacion
+indeterminado,
+ambiental;d)
+mi-nisterio
+043710,
+creado.
+rca
+17.288,
+efecto,
+urbanístico,
+-número.
+●período
+eia
+estratos:
+ar-queológicos
+“formulario
+aplicable.por
+pintorescas.2.
+in-cluye
+estratigráfica
+◦nombre
+(unesco,
+accesibilidad,
+inde-pendiente
+res-pectivo
+bibliográfica
+labbédirector
+involucrada”.servicio
+oficio.por
+cerámicos,
+antrópicas.
+produciéndose
+contener-los).
+●superficie
+república).servicio
+dic-tado
+●estado
+2012).
+-ubicación
+análisis:
+(seia)
+márge-nes
+singularidad.si
+estratigráficamente
+for-man
+cien-tíficas
+país.
+posea,
+aislado.
+gene-ran
+-número
+calicata(s)
+2004,
+influencia,
+palinomorfos).
+1970,
+nacionales8.
+índicesiglas1.
+disponible.
+estimada.
+in-formación
+estético,
+◦otras
+conside-radas
+reco-lección
+antigüedad,
+inter-venga
+19.300.artículo
+botánicas
+(y
+componen-te
+utm
+trabajo.
+●singularidad
+nº19.300
+lacustre,
+general,
+petrificadas
+◦nombre.
+otor-gados
+2).
+inserta.6.
+crite-rios,
+sitio.
+(eia)
+ley.
+antropo-arqueológicos
+estableci-do
+colabo-ración
+multifacética,
+in-tegrada
+ambiental,
+siguien-te
+particular,
+●observaciones.5.
+destruya,
+clasifi-cación
+utilizado,
+con-tener
+fechas.
+dia,
+generales,
+mismo.no
+22.4.
+esta-blecidos
+vii
+vida,
+(estructuras,
+además,
+siguien-tes
+corresponda,
+alteración.para
+rele-vancia
+ruinas,
+◦superficial.
+cla-sificación
+naturales,
+prospectada,
+materia,
+arqueología.
+decreto.las
+materiales.
+tesis,
+“loca-lización
+plaza,
+población,
+◦barrenos:
+emplazar.
+pintorescas6.3
+(conama),
+complementada
+(ca-pítulo
+seia,
+nacionales,
+pintores-ca
+marino,
+fecha.4.
+paleontológico16
+na-cionales
+constituirse
+georreferenciación
+pirámi-des,
+guías,
+restauración,
+paleontología,
+cultural.
+ingeniería,
+ves-tigios
+detalle).8.
+potenciales,
+inmueble.
+prospección.2.
+inter-vención
+inmuebles.
+taxonómica
+taxonomía
+●recopilación
+expre-samente,
+ge-nerada(s)
+compleja,
+◦cobertura
+to-dos
+di-gital
+emplazar;e)
+ambiental:
+presen-ta
+patrimonio3.1
+continuación,
+ejecutivoservicio
+jurídica.
+arqueológicos,
+anteriormente,
+des-cribe
+tuición
+fundadamente.en
+pros-pección
+154órganos
+publicación,
+pinto-resca
+elevaciones)
+influencia6.1
+geológico(s)
+reglamen-to
+obras,
+decir,
+“ficha
+popular,
+decla-ración
+lími-tes,
+museos,
+profundidad).
+otras.
+pronun-ciarse
+(restos
+aplicabilidad
+información:1.
+región).c)
+exhi-ba
+(decreto),
+●sitios
+seia.nacionales,
+sub-
+◦otro
+materialidad
+proce-dimiento
+unida-des
+3).
+res-pecto
+socie-dad,
+me-didas
+con-sideración
+barrenado
+pueblo,
+uno.
+29,
+zonas:1.
+ambiental;g)
+general)
+excavación11
+cul-tural
+deter-mina
+caracterización:
+(principalmente
+legal,
+2009,
+anterior,
+especial,
+tales,
+re-servas
+◦evidencias
+am-biental
+(expresado
+conadi
+efluentes,
+consecuencia,
+transectas
+◦adjuntar
+va-lor
+aire;c)
+partici-pación
+uniformando
+ígneas
+datum
+tal,
+in-volucrados.
+estado:a)
+de-berá
+sondeo,
+requisitos.el
+●adscripción
+chile,
+biosfera,
+ambiental12la
+naciona-les
+arqueológico.servicio
+ambien-tal,
+www.monumentos.cl.
+columnas,
+utilizados,
+◦formaciones
+protegida,
+(mma)
+(2012).
+b)
+(capítulo
+evalua
+históricos,
+corresponda.
+◦alteraciones
+in-greso
+detalle),
+historia.el
+identifi-cados
+ca-racterísticas
+tí-tulo
+ello,
+edificios,
+realiza,
+destruir,
+●patrimonio
+topográfi-co
+tipolo-gías
+ambienta-les
+público,
+identificado:a)
+intangible:
+santua-rios
+monu-mentos
+1ª
+seia.artículo
+(dictamen
+◦recolección
+asimismo,
+marinos,
+científica,
+vialidad/transporte
+prospectada
+instrumentos,
+favorable.respecto
+di-chos
+queológico,
+(ley
+con-servación
+estratificación,
+georreferenciación.
+●potencial
+otor-gando
+paleontológicos.para
+13figura
+calicatas):
+fosilíferas,
+son:
+competente.
+ex-cluye
+fosilíferos)
+industria-les,
+profesional.7.
+impor-tante,
+seia
+culturaservicio
+proyecto.el
+actividad,
+corporales).
+transfor-mar
+(comuna,
+fósi-les,
+harneo,
+zoológicas,
+sos,
+pintorescas7.
+em-plazamiento
+obstrusivi-dad,
+musicales,
+nº
+aplicables.
+científicas,
+contrario,
+abordar-los.
+operando;c)
+humanas,
+relacio-nes
+provin-cia
+some-terse
+vestimentas,
+(2008).
+permane-cer
+libros,
+defensivo,
+efectuadas
+(excepto
+éstos;
+leyendas,
+tan-gible,
+informa-ción
+rcaseaseia
+paleontoló-gico,
+naturaleza.
+y,
+inserta.8.
+“el
+tanto,
+procedente;f)
+éstos,
+arqueológico,
+ej.,
+históricos5.1
+creto
+ellas.a)
+pre-sentar
+privada.
+protección.
+propuestas.
+inmueble:
+básica,
+biogénica.
+patri-monio
+cons-tituyen
+visibilidad,
+área.servicio
+bien.el
+seia).
+entera,
+películas,
+propias.dado
+artesanías,
+delimitación
+efectos,
+arquitectónicos,
+cumplirá;d)
+existente.
+estratigrafía;
+abor
+wgs84
+◦pozos
+inmuebles,
+correspondiendo
+general:
+ley,
+fune-rario,
+reglamen
+antro-pología,
+(vi-sualización
+monumen-
+naturales.
+litoestratigráfica
+arte,
+f)
+●descripción
+razón,
+guías.
+país,
+permi-sos
+listan
+históricos;
+paleobiología
+rca.si
+siguiente:1.
+ambientalel
+-ubicación/georreferenciación.
+piezas,
+(sbap),
+historia,
+paleontológico.
+emplazamien-to
+fósiles,
+cien-cias
+yaci-mientos
+requi-sito
+conse-cuencia,
+ór-ganos
+geológicos,
+ambiental143
+4.la
+ar-queológico,
+apro-piadas.
+“los
+(unesco),
+antecedentes14:
+estado.
+afectados,
+evaluación.
+sea.
+prospección:
+3°
+mínimas.servicio
+utilizadas.3.1.
+compro-barse
+(líticos,
+pro-fesional
+poesías,
+gestión.
+placas,
+típi-cas
+históricos6.1
+(administrados
+hallazgo.
+sitio:
+predictiva
+(pozos
+contem-plar
+graficar
+renova-bles,
+remoción,
+par-te
+19este
+histórico.
+total;
+pronunciamiento.es
+circunstancias:a)
+corresponda:artículo
+comprobable
+determinado.
+permita”
+edificación).dicho
+cus-todia,
+muestras:
+licenciatura,
+co-rresponden
+reco-rridas.
+desfavorable,
+ley:a)
+●con
+artefactos,
+am-bientales
+paleontológica
+publica-rán,
+antropológicas
+manuscritos,
+geomorfología.
+identificación,
+estratigráfico:
+impactos.
+corresponda.3.2.
+con-servación,
+preliminar.
+rea-lizar
+c),
+sistemática),
+paleontológicas,
+fernández,
+edición.
+basural,
+29°
+número,
+conforman.
+ubicación/dirección.4.
+metamórficas
+nacional”.
+muestras,
+sea.los
+aborígenes,
+costumbres.
+contenidos.
+presenta,
+sitios:
+universi-tarios
+excavados:
+nacionales5.
+generaciones.
+arqueológicas,
+región).3.
+in-cluir
+●localización
+autoridad,
+ambiental28esta
+situs.
+in-terés
+19.300.
+actual,
+excavaciones,
+(por
+2003).servicio
+vírgenes,
+colecciones,
+criterios,
+creencias),
+sitios.2.1.
+actividad;b)
+deferentes
+alguno,
+especí-ficos,
+administrativo,
+señalados,
+fecha.5.
+foto-grafías,
+tramitada
+geológi-cas
+presentar.
+capas,
+oficina.
+(identificación
+19.300.4
+cultural3.1
+significativa,
+ceñirán
+arqueológica.se
+sbap,
+11e)
+religiosa,
+arqueológicos6.3
+suelo,
+condiciones,
+otras,
+nacionales.presentacióndando
+cmn
+música,
+glaciares,
+otorgamiento
+◦microfósiles
+gene-ral,
+grado,
+característi-cas
+documental,
+corresponde),
+ambien-tales
+mag-nitud
+téc-nicas
+excava-ción
+(desde
+fósiles.
+pormenorizada
+pa-leontológicos
+discrecionalidad
+visual:
+paleontoló-gicos,
+mismos.
+●número
+2,
+litológicas.
+ob-servación
+claramente:
+le-vantamiento
+científi-cas,
+(polígo-no
+autor)
+cualitati-va
+intervención,
+indígena,
+fósiles:
+respecto.
+[online].
+ambiental2478evaluación
+(dia).
+protección,
+1:
+otros.
+histórico;
+paleontología.
+en-contrar
+naturaleza,
+des-cripción
+carác-ter
+www.monumentos.cl,
+metodologías
+lenguaje,
+ejemplo,
+de:
+prác
+zoología,
+ambiental165monumentos
+arqueoló-gicos
+ambiental101alcances
+3.este
+costum-bres,
+com-pensación
+fosilífera.
+discos,
+(m
+invertebrados.
+cuantitativa
+◦invertebrados
+paleon-tológicos
+monumento.las
+terri-torio
+re-siduos,
+prehispánicos
+sis-tema
+19.300:
+superficial,
+éstos.
+multicomponente,
+(cmn),
+sedimentaria.
+●origen:
+aldeas,
+biológicas,
+localidad,
+ha-llazgos
+respectivamente.
+recurso,
+23siglasartículo
+específicas,
+paleontológicos
+pinto-resca,
+cine-matográfica,
+geológicos.
+rodados.
+espacia-miento,
+monumentos,
+sirgas
+panorámica.
+ambiental26referenciasartículo
+nombre.b)
+(p.
+internas,
+coronas,
+compe-tencias
+otros,
+prehispánico,
+activida-des
+esencia,
+a),
+ambiental203.
+catastros,
+kmz,
+privada,
+natural,
+naturaleza;
+excave,
+ge/>.
+prospección.artículo
+labora-torio
+físicas,
+◦formación
+tipología
+conte-ner
+sistema.
+arqueológico.2.2.
+planimé-trico
+(recolección
+literaria,
+competencia,
+1:100
+construcción,
+(2003).
+(artículo
+descripción,
+utili-zadas
+es,
+guía:cmn
+56,
+es-pecial
+emplazar”.
+paleon-tológico,
+sitios,
+incluir,
+com-pactación,
+◦las
+ob-jetos
+georreferenciación.3.2.
+conservación.corresponde
+científicos,
+pascua,
+estableci-dos
+infor-mes
+zona;f)
+santiago,
+información.
+posteriormente,
+9a
+valles,
+delimitación.2.
+diferente.
+sitio).d)
+zona.
+com-ponentes
+ambiente:
+canti-dad
+literatura,
+constitucional,
+geológi-cos
+impacto.en
+paleontológicos-
+25.6.
+antropológico,
+excavación,
+procedi-mientos
+8:en
+literatura.de
+queológicos
+traslado,
+21°
+accio-nes
+publicaciones).
+geográficas,
+chile.conama
+editorial,
+(nombre
+construcciones,
+colectadas.
+pro-yecto
+regiones).los
+la(s)
+histórico,
+pedestre,
